@@ -1,0 +1,1302 @@
+ 
+ 
+
+ 
+CONTENT: 
+ 
+ 
+1. Foreword 
+2. Introduction 
+3. Structure and Governance 
+4. Resources and Value for Money 
+5. Partnership Arrangements 
+6. Performance and Outcomes 
+7. Risks to future Delivery against Youth Justice Outcome Measures 
+8. Partnership Signatures 
+9. Glossary 
+ 
+ 
+	Annex 1 - Swindon YOT Management Board Terms of Reference 	 
+	Annex 2 - Swindon YOT Partnership Agreement 	 
+Annex 3 - Managing Risk Procedure  
+Annex 4 - Swindon YOT Structure Chart July 2019 
+Annex 5 - Diversity Statement 
+Annex 6 - Swindon YOT Data 2018/19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. FOREWORD 1.1 This is my second Swindon  RYS/ Youth Justice Plan, following my appointment to the DCS post in Swindon in July 2017.  I remain confident in the ability of all the services  in RYS -particularly the Youth Offending Team- to deliver against their key priorities in spite of the continuing challenges associated both nationally and locally with the youth justice and social care landscape. Moreover, I welcome recent developments in enhancing the scope and reach of the YOT in delivering against the Early Intervention agenda by its development and launch of the Youth Restorative Intervention Panel which, with key partners, seeks to prevent unnecessary first time entrance into the youth justice system. This, and other associated activity accords with my vision for the wider Children's Services in Swindon entitled 'One Children's Service; consistently good every day' and I am keen to ensure the YOT (and RYS) play their part in achieving this. 
+1.2 My role as Chair, and those of my colleagues on the YOT Management Board, has been to support the team as well as seek greater efficiencies and hold them to account. 2018 into 2019 was characterised by a continuing scrutiny of performance evidenced via qualitative data (including case studies) as well as inputs from specialists on the Board. In order to check and test the progress of the YOT; particularly but not exclusively against the new domains of HMIP Inspection criteria, the last 12 months have seen a flurry of activity associated with audit, review and quality assurance. We have hosted a Youth Justice Sector Improvement Programme Peer Review as well as having had the Government Internal Audit Agency in conjunction with the National Audit Office inspect YOT finances and spend against the YJB grant and having the core functions of the YOT audited via the Internal Audit regime. All of this provides independent audit and scrutiny of the work and performance of both the YOT and the Management Board, and salient actions and recommendations have been incorporated into this Plan. All of this and more is monitored and evidenced by regular performance data which is scrutinised not just by the YJB, but the YOT Management Board and other partners. 
+1.3 The lead up to this year's Plan was characterised by continuing pressures from central government, continued cuts in public funding, as well as increasing concerns around knife crime, dangerous drugs networks, County Lines and child criminal exploitation amongst others. The team's response to these  challenges has been positive and is reflected in evidence of close partnership working and good outcomes for young people as well as innovative practice such as the Youth Restorative Intervention Panel and associated work arising from this. Ensuring that the key funding partners meet their statutory obligations to resource YOT beyond 2019/20 will be a key priority of the Board, in addition to overseeing the drive to keep vulnerable young people and the public safe from harm. This also includes keeping children and young people safe from abuse, all forms of exploitation, radicalisation, domestic abuse and substance misuse and avoiding unnecessary criminalisation where appropriate. 
+1.4 Encompassed within this Plan is an outline of the coming year's strategy, performance and priorities, which include ensuring a smooth transition of the services currently located in RYS (including YOT) into the wider and broader service redesign of the Swindon Family Intervention and Support Service (FISS). We will be taking this opportunity to rebrand and refocus the current YOT into the Swindon Youth Justice and Diversion Service; to better reflect the new focus on early identification and intervention as well as maintaining statutory youth justice functions and services. It is envisaged that this will build on the services strong reputation for effective partnership working and a dedicated bank of willing volunteers underpinning the skills, knowledge and experience of the paid workforce. I am pleased to report that the Plan for 2019/20 has the full confidence of the YOT Board and focuses robustly on key areas of performance and development and maintaining the confidence of recipients of the various services as well as the wider partnerships and public. 
+David Haley 
+Corporate Director of Children's Services, Swindon Borough Council   
+Chair of the Swindon Youth Offending Team Management Board            
+ 
+ 
+ 
+ 
+2. INTRODUCTION 2.1 'Restorative Youth Services', the collective term for the services that currently comprise of Swindon Youth Offending Team, U Turn Substance Misuse Service, On Trak Youth Counselling Service and the RESPECT programme are well placed to meet the Local Authority's drive to greater localism and accountability. Restorative Youth Services will play a crucial role in supporting their strategic aims for a strong, safe community where fear of crime is low and where there is a strong sense of civic pride in making Swindon 'a great place to live and work'.  These aims also recognise that the population is becoming more diverse and is forecast to grow from 186,600 in 2007 to 250,000 by 2030. The inequalities for some in the Criminal Justice system were highlighted in the Lammy Review and RYS (YOT) is cognisant of this and strives to ensure fairness and equality of access, treatment and provision for all children and young people it works with. Although the town is recognised for creating an environment for good economic growth, there still remain areas of inequality and deprivation with low aspirations and attainment and this remains a significant challenge, as well as an opportunity to encourage local people to become more self-reliant and participate in decisions affecting their lives. In order to meet some of the challenges going forward, we have increased our scope and remit to include  a focus on Early Intervention via the Youth Restorative Intervention Panel and its alignment with the wider Swindon early help and adolescents at risk agenda; which is to be brought under the wider Swindon Family Intervention and Support service (FISS). RYS will cease to be a service as its constituent teams will be incorporated into the wider FISS; however YOT will remain as a distinct sub set and will be rebranded as a Youth Justice and Diversion Service. 
+2.2 There are many factors, nationally and locally influencing this Plan. The Taylor Review recommendations continue to impact upon Youth Justice in England and Wales and the revised standards for Youth Justice have resulted in incremental but significant changes to the scope and direction of YOTs which remain to be fully understood and worked through as they continue to emerge and develop. The team continues to enjoy the confidence of the YOT Board chaired by the Corporate Director of Children's Services, and fully supported by the wider partnership of statutory bodies and other key agency representatives. The quarterly meetings reflect an effective Board able to hold the YOT to account, and more recently we have hosted a sector led Peer Review, a Government Internal Audit Agency/ National Audit Office audit of our use and spending of the YJB grant and have held a series of Board workshops aimed at incorporating these, as well as Internal Audit and HMIP Domains for inspection into this plan. The Board remains fully aware of the risks to service delivery, with an updated Risk Register forming part of the Board's quarterly discussions. There have continued to be national and local funding reductions and pressures which has impacted upon the YOT which, with Board oversight and approval, has seen front line services protected whilst wider functions (performance reporting and business functions) being absorbed into wider Borough faculties. The wholesale change to our case management system (to ASSET Plus) has fundamentally changed the way the way we assess and plan for working with young people and has been challenging in terms of its implementation and in particular the quality assurance functions; however we have embraced this, recognising that any increase in the requirement for management oversight is in keeping with our post inspection action planning and strategy. We have commissioned additional practitioner and manager training to ensure we achieve best use of the case management system and have also purchased the 'Capture Analytics' software to better capture and analyse our data to inform service delivery.  We continue to drive towards more use of restorative justice/ approaches and continue to work in partnership with the OPCC led 'Restorative Together' programme; a multi-agency partnership group which the Swindon YOT Service Manager continues to chair.  We  maintain a continued focus on Performance reporting and Quality Assurance, First Time Entrants, use of Custody, innovation and ensuring good quality service delivery going forward and are determined in part to innovate according to locally emerging issues and trends. Foremost in this is the partnership work around Knife Crime and the development and launch of a pan-Wiltshire Restorative Youth Intervention Panel both of which are as a result of increased challenge and scrutiny in response to emergent trends. In keeping with this we have mainstreamed a groupwork programme for working (differently) with young girls and women in the youth justice system ('GIRLS' group) as well as a bespoke programme for BAME young people ('Young Routes group'). We continue to run a Junior Attendance Centre (known locally as the Youth Justice Centre) which delivers flexible interventions matching and meeting practitioner and young people's needs.  
+2.3 We are committed to playing our part in achieving our Corporate Director of Children's Services vision of 'One Children's Service; consistently good every day' and seek all and every opportunity to work better and more collaboratively with our wider Children's Service teams and colleagues; contributing to the work, planning and interventions that they deliver on a daily basis. The service redesign with the resultant FISS is a continuation of this; which will ensure youth justice remains at the forefront and an integral part of this wider service going forward. 
+2.4 This Plan acknowledges YOT performance to date in each of the key areas associated with prevention, reoffending and custody as well as the findings and recommendations from various audits and reviews and continues to make best use of the synergy between the teams that make up Restorative Youth Services, as well as with key partners such as Children's Services, Community Safety Partnerships and other criminal justice partners. YOT and wider performance data is routinely reported to and scrutinised by the YOT Board, highlighting important trends including: the use of our community disposals, a smaller but more complex and risky/ vulnerable cohort of young people subject to Court ordered interventions, and continued and ongoing focus upon children who are Looked After or BAME (influenced and informed by the Lammy Review).   In addition the YOT continues to equip staff for supporting the Government's agenda around Serious Violence and managing radicalisation and extremism for under 18s. (Prevention of Extremism and CONTEST strategy). All RYS staff previously had WRAP 2 training specifically aimed at identifying young people at risk of radicalisation and the RYS and YOT Service Manager continues as a member of the Borough Council PREVENT Board as well as the Community Safety Partnership Board, the Strategic MAPPA Board and the  Wiltshire Criminal Justice Board. 
+2.5 U-Turn continues to see a positive shift away from Class A drug use by young people, but which has been replaced by increasing 'poly drug' use  and experimentation with predominant use of cannabis and alcohol. There were also detected usage of drugs such as 'Xanax' and 'Lean' which gave rise to the service issuing briefing notes to schools and the wider children's services warning of the risks associated with use.  
+2.6 On Trak has attempted to make inroads into decreasing waiting lists/ times for young people to access counselling services but has seen both an increase in referrals (monthly via GP or self- referral) as well as long term absence of some key members of staff. Anxiety, self-esteem issues and mental health conditions such as depression continues to feature highly amongst the cohort of young people accessing the service and there has been a reported increase in self-harm; in part, but not exclusively, linked to 'exam anxiety'. This has resulted in treatment times becoming longer. A positive developments has been On Trak's participation in the Single Point of Access (SPA) with TaMHS colleagues; which seeks to ensure the right treatment is given to children and young people at the right time and to avoid becoming 'lost' in the wider mental health system. 
+2.7 The RESPECT Programme continues to deliver both one to one as well as groupwork programmes with Children, young people and their families around the DA agenda. Going forward, we hope to consider expanding the range and remit of this work as there is a demonstrable demand not only with the current cohort and waiting list, but potentially with even younger children (under 10's; some of whom are also have ASC) and are pleased that the Wiltshire Community Foundation have announced that they wish to re-invest in the programme to allow this to happen. 
+2.8 Given the proposed service redesign into the Family Intervention and Support Service (FISS) it is likely that the non-YOT services above will be absorbed into this service and RYS will cease to exist as the umbrella term for these. As such, therefore, it is likely that this will be the last Annual Plan to feature these services. 
+2.9 The Plan is underpinned by a highly motivated and trained workforce, as well as a high number of local volunteers. Going forward, with a reduced paid workforce, maintaining and imposing the skills and expertise base of the large cohort of volunteers working with Restorative Youth Services and YOT; working tirelessly with vulnerable young people and their families is of paramount importance. We are committed to a design to see 'the right people, with the right skills in the right place at the right time' - and this includes our valuable volunteer colleagues. Recognising their importance and value, we have recruited a dedicated part time volunteer coordinator to maintain, enhance and expand their work and contribution going forward. RYS has been successful in maintaining its 'Investor In Volunteers' kitemark; which acknowledges the investment we make in this important area. 
+2.10 This plan provides the strategic and contextual setting ensuring our systems and processes are safe; that risk, vulnerability and safeguarding is assessed and well managed; that young people are rehabilitated; that victims have a say; and that our young people who come into contact with the justice system have every opportunity to become valued and productive members of the community. I am confident that we have the right model going forward to ensure staff and volunteers remain focused and stronger by virtue of the current partnership formed by the teams that make up RYS. 
+2.11 Finally, the YOT invests in the work being done in my capacity as Service Manager to undertake scrutinies of YOT performance and practice elsewhere in England via the sector led Peer Review programme. These reviews enable me to bring back learning and best practice from elsewhere, and use this to Swindon's advantage alongside other published data, including YOT Inspections and HMIP thematics and challenges driven by the YOT Board. This year we capitalised upon this by not only participating in the programme, but by becoming the recipient of such activity via a Peer Review of Swindon YOT by senior colleagues from the Youth Justice sector.    
+ 
+For more information contact; Matt Bywater - RYS Service Manager mbywater@swindon.gov.uk  or refer to the Council's web site http://www.swindon.gov.uk/ 
+ 
+ 
+3. STRUCTURE AND GOVERNANCE  
+3.1 Swindon Youth Offending Team is a multi-agency partnership comprising staff from Police, Probation, Education and the Local Authority Children's Services. This is reflected in the composition of the YOT Management Board.  
+ 
+3.2 The role of Swindon YOT is to reduce offending by children and young people aged 10-17, and to have a preventative role in reducing the risks of offending, AntiSocial Behaviour, exclusion from school and risk of not being in employment/training/education (NEET), this includes ensuring young people are safeguarded. 
+ 
+3.3 The YOT Partnership works closely with young people and their parents/carers as well as the Courts, other Criminal Justice agencies, Social Care, Health agencies, and groups including the voluntary sector that support young people in order to deliver key outcomes; recognising the unique value and contribution that such young people make to society. 
+ 
+3.4 Swindon YOT Delivery and Strategy is integral to a number of partnership plans and strategies as follows; 
+ 
+• Swindon Borough Council Business Plan 2016 - 20 (Vision for Swindon)  
+• Swindon Children's Strategic Partnership Board and associated others 	 
+• Wiltshire Criminal Justice Board Strategy 2019-20 
+• Swindon Community Safety Partnership Plan 2019 - 20 
+• Wiltshire and Swindon Police and Crime Commissioners Plan 2019 - 20   
+• Swindon Local Safeguarding Children's Board (now the Swindon Safeguarding Partnership) Annual Plan 2019 - 20 
+• MAPPA Strategic Management Board and Plan 2019 - 20 
+• Restorative Together (Swindon and Wiltshire) Annual Plan 2019 - 20 
+• Timely and bespoke responses to OFSTED and HMIP external inspections and validations. 
+• Swindon Children and Families Quality Assurance and Performance Improvement Board.   
+ 
+3.5 The above work is oversighted and governed by the Swindon YOT Management Board. The Swindon YOT Management Board (the 'YOT Board') is responsible for the commissioning and delivery of work of the Swindon Youth Offending Team. The Board is chaired by the Corporate Director of Children's Services in Swindon.  The YOT Board is required to monitor the performance of the prevention of youth crime and ensure the delivery of statutory requirements at local level.  This includes reducing the likelihood of reoffending by young people; and the risk of harm that they can pose to other people and themselves. 
+ 
+3.6 The YOT Board consists of senior members of the following partners:  Swindon Borough Council; Corporate Director of Children's Services (and YOT Board Chair), Head of Housing Services, Commissioning - Housing and Community Safety, Head of Education, Commissioner, Routes to Employment, Principal Officer Health and Wellbeing (Children and Families) and also includes the Cabinet Members for Childrens Services and Housing and Public Safety, Swindon and Wiltshire Police and Crime Commissioner, Wiltshire Police, National Probation Service, CAMHS; Swindon Wiltshire & B&NES (Oxford Health), Swindon CCG, HM Courts and Tribunal Services. In addition Early Help, Finance and Performance (from Swindon Council), and the current Chair and Deputy Chair of the Wiltshire Youth Court Bench also attend. The membership of the Board ensures that Swindon YOT is accountable, consistently delivers against agreed national and local targets / performance indicators, and contributes to wider Council and Pan -Wiltshire strategies regarding children and young people, crime and anti-social behaviour.  The membership of the Board also ensures that it is well placed to discharge its duties as follows:-  
+ 
+• Securing and safeguarding the appropriate financial, estates, personnel, strategic planning, effective practice delivery and data management in accordance with national and local legislative and policies/procedures (in this, there is an expectation that partners will advocate for and prioritise appropriate leadership and resourcing for the YOT Partnership).  
+• Monitoring the performance of the YOT against key elements of effective practice, national and local targets; and Inspections to ensure continuous improvement. 
+• Ensuring that the work of the YOT is integrated into the Local Criminal Justice Board, MAPPA Strategic Management Board, Community Safety Partnership, Children's Services Plan, Council Health and Wellbeing Scrutiny Board, Swindon Local Safeguarding Children's Board, Victim and Witness Services and that across the multi-agency partnership there are clear lines of communication and accountability. 
+• Owning, contributing to and approving the Annual Youth Justice Strategic Plan prior to final submission to the Youth Justice Board.   
+• Ensuring that the Swindon Youth Offending Team is adequately and appropriately resourced to be able to deliver the annual Youth Justice Strategic Plan. 
+• Determining the overall financial and human resources of Swindon YOT to meet the requirements of the Youth Justice Strategic Plan (this includes commitments to the funding of the partnership funding both 'in-kind' and through direct contributions). 
+• Monitoring and ensuring that all YOT staff receive appropriate training and development opportunities in order to deliver best practice and outcomes. 
+• Ensuring that core staffing is retained from the statutory partners and  that the YOT continues to operate within a multi-agency model, and that systems are in place to maintain and recruit to relevant staff secondment opportunities. 
+• Ensuring that Swindon YOT complies with, and meets all statutory frameworks and expectations, including (but not exclusively) the safeguarding of children responsibilities.  
+• Ensuring that the work and development of Swindon YOT maintains a high profile within all partner agencies, though effective working together and marketing to improve public confidence and awareness in the Youth Justice System. 
+• Ensuring that YOT is prepared for formal inspections and has effective internal quality assurance processes. 
+• Supporting Swindon YOT in identifying and overcoming any potential barriers to effective multi-agency working and ensuring that partner agencies continue to make an effective contribution to delivery against key youth justice outcomes.  
+ 
+3.7 The Management Board meets quarterly and Minutes of Board meetings can be made available to non- Board members on request. In addition over the last 12 months the Board has held a series of extra-ordinary workshops and meetings to scrutinise the findings from various audits and reviews (including a sector led Peer Review) as well as to audit itself and the YOT against the new HMIP domains for inspection.    
+ 
+3.8 Swindon YOT is managed by the RYS Service Manager (the de facto YOT Manager); reporting to the Director for Social Work who in turn reports to the Corporate Director for Children's Services.  Staff are based on the Ground Floor of Clarence House in the centre of the town, and respond to the needs of young people across the Borough; including in their own homes as well as those in the fortnightly Youth Courts in Swindon or in the daily County Remand Court in Swindon (including Saturdays and most Bank Holidays). YOT Police colleagues contribute to and operate, with wider partners, a Youth Restorative Interventions Panel which meets weekly in Swindon and considers the vast majority of children and young people coming to the notice of the police for criminal or anti-social behaviour. 
+ 
+3.9 Swindon YOT benefits from the deployment of dedicated secondees/ placements including Police staff, Probation staff, an Education Welfare Officer and a Youth Engagement  Worker for NEETs (Not in Employment, Education or Training,) a CAMHS (Child and Adolescent and Mental Health Services) worker, a Health Nurse, a Speech and Language Therapist and a Communications Worker.  These members of staff enhance delivery by acting as the first point of contact within the YOT for any issue relating to the management of cases and access to services and also enables it to ensure effective and timely joined up delivery through intervening earlier with young people at risk of committing crime or anti-social behaviour; or where such young people are themselves at risk through lifestyle choices; and the impact of adults on them in their environment. 
+ 	 
+3.10 The Swindon YOT Management Board meets on a quarterly basis to discharge its duties which are as follows: 
+ 	 
+• Oversight of Practice and Performance - through a regular quarterly YOT Managers report, analysis of performance information and feedback from specific service areas. 
+• Monitoring Grant Conditions/Timely Submission of Data - through a quarterly finance report and a risk register and action plan focussing on key improvements identified and through reports and updates linked to national thematic inspections, Critical Learning Reviews, and Serious Case Reviews. 
+• Ensuring multi-agency and effective partnership working - all members are signed up to a Partnership Agreement (Annex 1) and Managing Risk Procedures (Annex 3) As a result the Swindon YOT Management Board holds the partnership to account to ensure effective multi-agency working in ensuring that partner agencies make an effective contribution to delivering key Youth Justice outcomes in Swindon. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. RESOURCES AND VALUE FOR MONEY 4.1   Youth Offending Team 
+ 
+a. Income and budgeted expenditure for 2019/20 is as follows:  
+ 
+Agency Staffing  costs  Contribution in kind Other delegated funds Total  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ YOT BUDGET 2019/20 Local Authority £152,700.00 £85,000.00 £129.500.00 £367,200.00 Salaries (incl. contrib. to U-Turn) £565,100.00 Police Service* £75,000.00   £75,000.00 Equipment £1,500.00 National Probation Service £19,100.00  £5,000.00 £24,100.00 Accommodation £0.00 Health Service £70,000.00  £29,000.00 £99,000.00 Overheads £51,430.00 Police and Crime Commissioner*   £81,707.00 £81,707.00 Activity £3,600.00 YJB Grants    £223,723.00 £223,723.00   Other        Reserves       Total £316,800.00 £85,000.00 £468,930.00 £870,730.00 Total £621,630.00  
+ 
+YJB GRANT 2019/20 BREAKDOWN Reducing use of Custody 
+Reducing Re-offending 
+Reducing FTE's 
+ £64,800.00 
+£39,500.00 
+£61,000.00 
+ £6,000.00 £13,000.00 
+£39,423.00 
+ 1 F/T Service Manager*  
+1 F/T Intensive Intervention & Remand Co-ordinator 
+2 F/T YOT Workers (incl Reparation and Unpaid work element) 
+Contribution re P/T Speech & Language Therapist 
+Contribution to U-Turn Young People's Substance Misuse Service Contribution towards management, admin & running costs, and YJC resource. 
+ TOTAL £223,723.00 (36% of overall YOT Budget)  
+b. The Plan for 2019/20 has had to anticipate continuing reductions in funding from key funding partners. This included a reduction of 75% in terms of staffing and finance from NPS and a reduction of 1% funding from the Youth Justice Board; which historically represents a total of over 45% over the last 10 years from the centre. Taken in conjunction with year on year increases in salary related costs, it was necessary to secure savings in costs and build a reserve to sustain a workable budget for 2019/20 and help to offset pressures from 2019 and beyond.  In spite of these cutbacks, the YOT continues to maintain service delivery, keeping custody rates low, and working with a challenging cohort of young people, suggesting that Swindon YOT offers value for money alongside the delivery of a professional service. 
+c. It should be noted that The Government Internal Audit Agency (GIAA) who help government departments to manage public money effectively by developing better governance, risk management and internal controls and the National Audit Office (NAO) who scrutinise public spending for Parliament conducted an audit of the YJB Grant funding allocated to Swindon YOT in  March 2019. Feedback from the Lead Auditor stated that Swindon YOT is operating satisfactory controls to ensure that the grant is being used in accordance with the terms and conditions. 
+4.2 New Developments:  The YOT is upgrading its case management system ChildView to version 3.4.1 in July 2019, and this will also include the new feature Capture and Analytics which will allow for more accurate data input and better case management. The improved data quality will assist with making informed practice decisions and demonstrate effectiveness and value for money. We commissioned bespoke training for all staff and a number of training workshops will be delivered (which will also include ASSETPlus refresher and Reporting). The Swindon Junior Attendance Centre (JAC) commissioned 3 sessions from an award winning national charity Street Doctors to deliver more impactive work to specifically identified young people who have been identified as being more at risk of harm causing and involved in weapons offences. Also we have, with partners, commissioned and undertaken the Fearless programme (run via Crimestoppers charity); equipping all front line practitioners with the tools and skills required to work with young people around the weapons and harm agenda.  Other priorities include a continuing investment in the delivery of anti-crime messages (including Knife Crime) via the Junior Good Citizens Scheme which is annually rolled out across schools in Swindon reaching a target audience of over 1700 pupils; commissioning of educational material (including films); innovation in the use of social media to engage young people including 'the Dock' website; and continued investment in the provision of unpaid work to 16-17 year old young people in close consultation with courts.  
+ 
+4.3 The YJB have announced an increase in the cost of Remand bed nights (where YOT have to fund Children's places in secure remand placements when needed) as well as a slight increase in grant funding to Local Authorities for 2019/20, amounting to £2,651.00 in Swindon. The YOT Board and the wider partnership are collaborating to reduce costs associated with remands into custody, and plans to support young people following resettlement. 
+ 
+4.4 The Substance Misuse Service U Turn - This service is funded from three different sources: Local Authority based Public Health accounts for £75,000, helping to ensure that this service is integrated with wider children's services; Youth Justice grant funding transferred from YOT income to U Turn (£13,000) and Children's Services core funding making a total budget of £139,600.  
+ 
+4.5 The Youth Counselling Service On Trak - On Trak continues to receive funding in order to meet demands by young people for their services, including increased waiting times.  The budget overall is £136,500 (£68,400 from SBC and £68,100 from the CCG) in 2019/20. 
+ 
+ 
+These budgets are managed by the Restorative Youth Services Service Manager in partnership with Swindon Borough Council finance.  
+  
+5. PARTNERSHIP ARRANGEMENTS  
+5.1 Swindon YOT enjoys a strong and effective multi-agency partnership.  Funding streams and staff deployment from our partners ensure there is an effective and meaningful secondment relationship between all key stakeholders; which provides challenge, oversight and support.   
+ 
+5.2 Through the role of the Corporate Director of Children's Services, Director of Children's Social Work and the Service Manager (RYS and YOT) Swindon has a place at the table of the following Boards and Forums: 
+ 
+• Swindon Safeguarding Partnership (formally the LSCB) (currently including the Board, Chairs Sub-Group, Child Exploitation and Missing Children's Sub-group and Training and Development Sub-Group). 
+• Swindon and Wiltshire Multi-Agency Public Protection Arrangements (MAPPA) Strategic Management Board. 
+• Swindon Multi Agency Risk Panel  (MARP)  
+• Swindon Multi-Agency Risk Assessment Conference (MARAC). 
+• Wiltshire Criminal Justice Board including Integrated Offender Management processes. 
+• Swindon Community Safety Partnership Board. 
+• Swindon Prevent Board (including Channel Panel when appropriate). 
+• Wiltshire Restorative Together Board. 
+• Swindon and Wiltshire Restorative Justice Scrutiny Panel. 
+• Wiltshire Youth Magistrates Panel. 
+• Swindon Crown Courts Users forum. 
+• Swindon Volunteer Forum.  
+• Swindon Drug and Alcohol Strategic Group. 
+• Swindon Troubled Families Board. 
+• The YOT Manager also attends quarterly regional SW YOT Manager's meetings which facilitates regional networking with YOTs and the YJB. 
+ 
+5.3 As Swindon YOT is co-located in Clarence House, there is immediate internal access to the Multi-Agency Safeguarding Hub (MASH) Assessment and Child Protection Team,  OPAL Child Exploitation and Missing Team, the Early Help Hub and the Care Leavers Team. 
+ 
+5.4 All commissioned services used by the YOT are commissioned by Swindon Children's Services Commissioning Team, the CCG (Clinical Commissioning Group), the Police and Crime Commissioner or Public Health Commissioners.  Examples of commissioned services supporting the work of Swindon YOT include: 
+ 
+• U-Turn Young Peoples Substance Misuse Service (currently co-located as part of RYS). 
+• On Trak Youth Counselling Service (currently co-located as part of RYS). 
+• RESPECT (Adolescent to Parent / Child Domestic abuse) programme (currently co-located as part of RYS). 
+• CAMHS - Child and Adolescent Mental Health Service. 
+• School Nurse. 
+• Education Welfare Officer. 
+• Youth Engagement Worker. 
+• Speech and Language Therapist. 
+• Communications Worker. 
+• Volunteer Co-ordinator. 
+• Victim and RJ Worker. 
+• Parenting Worker. 
+• Emergency Duty Service (out of hours support). 
+ 
+5.5 All of the above services contribute; directly or indirectly, to securing and sustaining improvements against the three Youth Justice outcomes of Reducing First Time Entrants into the Criminal Justice system, reducing Youth reoffending (re-conviction), and Reducing the use of Custodial Sentences (including use of secure remands). 
+ 
+5.6 It should be noted that Swindon YOT has a relatively low custody rate.  There are always fluctuations however, and there have been a localised increases on what is a low base (small numbers giving rise to higher percentages against target).  Young people leaving custody are considered as the 'crucial few' and Swindon YOT is committed to ensuring effective resettlement for them.  All young people subject to a DTO (Detention and Training Order) have an allocated Case Manager, who can be the single point of contact for the young person, family and other professionals involved, as well as having an 'intensive offer' whereby ISS staff work closely (sometimes daily) with young people on release ensuring all the ETE, benefit and accommodation needs are met, as well as providing IAG for these young people. The case manager will 'follow' the young person through their DTO period, working from the point of sentencing throughout the course of their detention.  Our case managers work closely with the young person their family, the prison establishment, and other relevant professionals; formulating appropriate sentence and post custody plans to facilitate effective resettlement and reintegration into the community.  Plans look at aspirations, goals and interventions and explore the constructive use of time whilst in custody and how this can be supported and sustained following release. 
+  
+          All case managers aim to establish a positive and sustainable relationship with the young person whilst in custody that continues into their release. They have regular visits to the custodial setting, and regular contact with both the young person and the staff in custody working with the young person.  There is a clear focus on building factors for desistence from offending and reducing those factors which can drive reoffending and all young people are encouraged to complete post-custody questionnaires which are fed back to the centre post release.  
+ 
+5.7 One custody case managed by Swindon YOT was inspected by HMIP in October 2018 and again in April 2019; the latter to conclude the final element (community phase) of the inspection of the Swindon case as part of their Thematic on improving resettlement. The feedback for the Swindon Young person and the management of the case was positive. The Inspector cited that there was good communication between YOT and Parc, and effective support for the young person and his family. He praised the good planning from the beginning of sentence, and the reviewing during the custodial and pre-release phase. The positives were: communication; effective and impactive work with young person; good recording and evidencing; and a  good working relationship with young person and good work with his parents both during and post release. There were some areas for consideration; specificity regarding those things needed for release (financial support and accommodation and concrete planning around ETE) and ensuring post release meetings were held with Parc, but overall the feedback was positive and testament to the good work undertaken by the Swindon case manager and colleagues. 
+ 
+ 
+6. PERFORMANCE OUTCOMES 6.1 The Performance and Outcomes we wish to achieve in the forthcoming 2019 to 20 year, given the brief and context above, is therefore as follows; all of which link into the Swindon YOT key performance areas, wider partnerships, responding to local crime trends and ensuring better and improved outcomes for children and young people in the youth justice system and community in Swindon. 
+ 
+6.2 DELIVERING SPECIALIST SERVICES AND JUSTICE FOR YOUNG PEOPLE AND VICTIMS 
+ 
+	6.2.1 	On Trak Youth Counselling Service 
+ 
+Our aim is to ensure that young people are able to access the service for assessment and counselling in a timely way regardless of gender, ethnicity, sexuality or religious or cultural background subject to their assessed needs. 
+Our Plan is to, following on from the previous Plan:  
+• continue to report data from young people's engagement effectively to the Clinical Commissioning on a monthly basis to reflect the quality of work being done, and enable the service to be held to account.   
+• embed procedural changes arising out of the new GDPR delivery guidelines for more effective data control within On Trak. 
+• continue  to work collaboratively with key front line services to ensure all referrals (including self-referrals) are dealt with expeditiously and in-line with the arrangements governing triage, this to include attending the single point of access (SPA) alongside CAMHS/TaMHS to ensure young people receive the 'right service for them at the right time'. 
+• continue to try and reduce the waiting list from assessment to subsequent first appointment by reviewing processes. We will enable this by providing a range of early interventions to hold young people in a safer place to include group work, early intervention (6 week intervention period) and signposting to 'Kooth' (On Line Counselling service).  (Waiting time currently up to 10 months; up to 4 for assessment following referral and up to another 6 to commence counselling). This is resultant upon staffing issues and absence over the last 12 months. 
+• continue to prioritise access in for CLA and Care Leavers to ensure they gain support from an appropriate counsellor as swiftly as possible.   
+• continue to refine and collate feedback from service users to reflect on outcomes (also using case studies) for young people accessing the service and inform future practice.  
+• maintain a Service commitment to explore innovative ways of communication to promote better outcomes and secure a wider reach including those who do not usually access the service. 
+• deliver On Trak online counselling and supervision to appropriate young people and staff that have been identified to need or benefit from this intervention when not being physically able to attend sessions. 
+• ensure the service continues to provide support to the Early Help and Troubled Families agenda, by providing flexibility for young people and staff with reassurance, pathways and using social media.  This will include the Dock, on line counselling and use of 'Kooth' to promote outreach and underrepresented groups through information, resources for young people who are looking to find information and guidance in times of need. 
+ 
+6.2.2  U-Turn Substance Misuse Service 
+ 
+Our aim is to increase awareness by young people of the service and others and help keep them safe from harm. 
+Our Plan, following on from the previous Plan is to:  
+• continue awareness sessions and associated activity ongoing within schools, fresher's fairs and appropriate events to enable consistent profiling. 
+• offer staff and parents education and awareness of the risks of substance misuse through phone calls and outreach.  
+• work alongside commissioners and the training exchange to roll out a training programme to professionals in the Borough regarding basic substance misuse awareness and a new triaging tool for young people. 
+• continue to work alongside other professionals on the CQC working group, to inform future practice and inspections whilst building reporting streams, existing strengths and good practice. 
+• ensure the continuation of outreach work and strategies to service users who, because of age, gender or ethnicity, struggle to or do not access the service currently.  
+• ensure young people still receive an assessment within 10 days of Referral. (The average for 2018/19 was 100% against a target of 90%).  
+• ensure that young people are assessed, appropriate young people commence an intervention within 5 days of the assessment. (Target: 90%>  Outturn 2018/19 100%). 
+• keep young people engaged with the service, for which a target is set of at least 90%.  
+• ensure the service continues to deliver support to the education sector in accordance with the traded services initiative, but continues to seek new and innovative ways of engaging young people using social media, including the Dock, as well to promote outreach and underrepresented groups. 
+• continue to provide safety and information briefings to schools and the wider public in response to emergent trends and use of any and all substances. 
+ 
+6.2.3 General Health & Wellbeing 
+ 
+Our aim is to ensure young people are healthy, and have access to relevant services; review agreements and protocols with partners with regard to health provision across partner agencies, including the secure estate; improve the communication skills of young people with specific reference to their written and speech and language capabilities. 
+Our Plan, following on from the previous Plan is to:  
+• continue to ensure a protocol for the delivery of Speech and Language to work alongside the 'Rapid English' programme to enhance the identification and support of young people who are acknowledged as needing an intervention.              . 
+• ensure Children Looked After are prioritised to gain support, ensuring they meet with the YOT nurse for an assessment of needs and follow up. 
+• ensure the YOT nurse has regular and suitable clinical supervision to help monitor outcomes and identify good practice.  
+• work closely with On Trak, U Turn and other relevant services to ensure a young person is referred to the appropriate support service. 
+• ensure that all up to date health related educational materials are easily and readily available through social media platforms including the Dock.  
+ 
+The delivery of general health services to young people via Restorative Youth Services continues to perform well against CQC auditing processes. Priorities for 2019/20 continue around access by more vulnerable groups of young people, including Children Looked After, which require new processes measured against new targets, as well as the extension of physical wellbeing to include emotional health. 
+ 
+6.2.4 Parenting 
+ 
+Our aim is to ensure parents/ carers of young people at risk of offending are offered help voluntarily or if necessary receive a statutory intervention from the parenting worker.                                                           
+Our Plan is to: 
+• evidence and report engagement of parents to the management team and YOT Board, by tracking interventions offered, outcomes and time spent in service. (Target: At least 20% of Parents offered interventions, outurn 2018/19 was 22%) 
+• offer parents/ carers early interventions, advice and parenting skills to help them manage their personal circumstances within the home as an early intervention 
+(including the facility of social media platforms i.e. The Dock and Kooth for young people). 
+• provide support to young people and parents with tailored resources; including a parenting forum and group. This will including partnership working with 'Respect'    ? continue parenting work collaboratively with partnerships and RYS team thus maintaining 'whole RYS Service delivery' approach. 
+• provide detailed analysis of parental feedback to promote changes in practice including case studies. 
+• Continue to encourage involvement from education, schools and colleges as well as other targeted or universal services including The Family Service to increase support for families. 
+• attend appropriate forums to assist parents/ carers and young persons in identifying support and managing risk (Chin, CP, Strategy etc.)  
+• ensure Parenting remains a YOT/ RYS Target in the drive to change behaviours and reduce offending or reoffending by young people and the holistic support to the parents.        
+ 
+6.2.5 Victims/ Restorative Justice 
+Our aim is to promote the benefits of Restorative Justice in helping victims and raising the confidence of the public in the youth justice system. 
+Our Plan is to: 
+• report data from victim's engagement effectively to management and the YOT Board quarterly to reflect the quality of work being done, and enable the service to be held to account.   
+• to ensure compliance with GDPR guidelines and new data protection law in RJ processes.   
+• continue RJ and victim contact, including communication, engagement and the appropriate recording.  
+• continue to record engagement with victims and the number of victims worked with whilst accruing feedback through RJ questionnaire or phone call discussions and case studies delivered.  
+• record victim's engagement in RJ process and encourage more engagement with conferences. 
+• continue to review best practice and research findings to inform any needed changes in process. 
+• continue to attend and contribute to the Annual Restorative Together for Wiltshire and Swindon Conference and subsequent Report. 
+• contribution to the wider work of the Wiltshire and Swindon Restorative Together programme by representation on the Board and working closely with members to develop strategies of 'Best practice' in RJ work across Wiltshire and Swindon and capturing feedback from victims etc. 
+• ensuring the Victims Charter remains embedded in RYS service delivery and the offer by delivering a good quality of work to victims. 
+• ensure updates and appropriate training to be the best resource for victims and their experience within the RJ System (Complex & Sensitive Cases Training) 
+ 
+Restorative Justice remains a powerful and effective means of helping a young offender to take responsibility for their actions, and for reassuring victims that the process has value. Swindon YOT is committed to improving the scope of restorative justice, bringing more young people and victims of all ages into the process, and promoting restorative justice across agencies where it can bring about a resolution and avoid the formalities of police processes and entry into the youth justice system.   
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	6.3 	REDUCING RE-OFFENDING AND SAFEGUARDING YOUNG PEOPLE 
+6.3.1 First Time Entrants 
+ 
+Our aim is to reduce the number of young people who are at risk of offending or anti-social behaviour from entering the youth justice system. 
+Our Plan is to: 
+• work collaboratively with a number of key agencies in the justice, early help and care sectors to embed the work of the new Youth Restorative Intervention Panel (YRIP) and to ensure it continues to strive to keep first time entrants outside of the criminal justice system where appropriate. 
+• re-roll the responsibilities of the police staff posted to the YOT and remove their statutory court order case management roles in order for them to focus on and meet the demands of the work generated by YRIP and the contents of the renewed SLA. They will continue to case manage those children and young people who are, as directed by the YRIP, made subject to Youth Conditional Cautions. 
+• with police partners, we will  develop a data base which captures trends and outputs from the YRIP and informs practice going forward 
+• work with the YJB, MOJ and Police to ensure FTE data submitted via PNC is accurate and understood in terms of its potential impact on shaping YOT delivery.  
+• promote greater links with specialist or universal programmes where early intervention and help plays a key part, including the Troubled Families and Early Help programmes. 
+• continue to participate in, and deliver, key anti-crime messages and education to school age children via the Junior Good Citizens Scheme delivered to schools across Swindon. 
+• prioritise Children Looked After and other over represented children and young people (including BAME) in the youth justice system and who are more vulnerable to criminal or anti-social behaviour or influences via a 'double lock' approach in the YRIP. This will ensure that only those children and young people who need to be in the formal youth justice system receive formal outcomes and extra scrutiny is paid to those from over-represented cohorts. 
+ 
+The drive to keep young people out of the criminal justice system is dependent on close and continuing collaboration with many sectors of the welfare and justice system, including police and education. Young people require new ways of engagement to deliver key messages to keep them safe from harm or be made more aware of the risks they face, for which innovation in practice (including the use of new digital tools) is a key focus. 
+ 
+	6.3.2 	Re-offending 
+Our Aim is to continue to reduce the rate of young people re-offending, offering the opportunities and support they need to become valued and productive members of the community. 
+Our Plan is to: 
+• continue to strive to keep our re-offending rates at or below national averages and ensure a downward trajectory (national 2016/ 2017 data showed Swindon at slightly above national averages). 
+• intervene at a greater intensity in the first four weeks, 20% of offenders re-offended within this period in 2018/19 (Live Tracker March 18 to March 19 data). 
+• prioritise the needs of Children Looked After who are especially vulnerable to unnecessary or undeserved prosecution or anti-social behaviour. 
+• maintain a focus and build on desistance factors and the young person's strengths to ensure that a positive identity is developed and maintained away from offending behaviour. 
+• continue to work with girls and young women 'differently' in accordance with the HMIP Joint Inspection into Girls in the Criminal Justice System. 
+• develop and launch new group work programmes mostly, but not exclusively via the Youth Justice Centre, to tackle developing trends in offending such as burglary and weapons offences. 
+• continue to offer BAME children and young people access to the 'Young Routes' Programme. 
+ 
+Re-offending rates have risen in recent years as measured against a more challenging and complex cohort of young people.  During the period of 2018/2019 we have been able to compare data against the existing offender population using the live tracker tool which evidenced that 22.4% of young people known to Swindon YOT throughout the period re-offended, compared with the year to date national figure which evidenced a re-offending rate of 37.7%. Although we have seen a reduction in Swindon's reoffending rate we will remain vigilant and not become complacent and will continue with this as a target throughout the next financial year. The emphasis will also remain on those young people made more vulnerable by virtue of their environmental, physical or emotional circumstances and condition to help improve their life chances and rehabilitate them into the local community as quickly and effectively as possible. In order to aid this, and assessments, we will continue to access trauma- informed practice and training in order to better understand and work with 'adverse childhood experiences' (ACEs). 
+6.3.3 Intensive Supervision 
+Our aim is to ensure young people stay out of Custody or avoid a custodial remand (Remand to Youth Detention Accommodation) where appropriate and possible by offering Courts a credible and consistent intensive level of supervision whether it is through the scaled approach of a minimum of two contacts per week or through the Intensive Supervision and Surveillance Requirement as part of a Youth Rehabilitation Order where daily contact will be undertaken. All young people released from Custody will be supported with intensive supervision, in order to aid their resettlement into the community and support them during the initial phase of their Notice of Supervision in the Community. 
+Our Plan, incorporating that which already exists and building on the same, is to: 
+• offer Courts a credible and consistent intensive level of supervision whether it is through the scaled approach of three contacts per week or through the Intensive Supervision and Surveillance (ISS) Requirement as part of a Youth Rehabilitation Order or a remand management package. This will include contacts at weekends and on Bank Holidays. 
+• deliver more group work programmes for young people who would benefit from intensive supervision to enable a greater level of contact (this will include the 
+Attendance Centre Resource, a re-designed driving awareness programme, re-designed weapons awareness programmes, a GIRLS group programme and the Young Routes Programme). 
+• offer the support of an intensive interventions worker to any young person who requires an intensive level of intervention as assessed by their Youth Offending General Reconviction Scale (YOGRS) and ASSET+ score.  
+• continue to ensure that all young people sentenced to Custody are allocated an Intensive Interventions worker upon sentence who will aid and support them in their resettlement and reintegration into the community, thereby reducing their likelihood of reoffending upon release and maximising their employment, education or training (ETE) chances .  
+• continue with the ambitious target of seeing young people complete their ISS programme (in 2018/19 the successful completion rate was 67% against a locally set target of 55%).  
+• continue to offer ISS, ISSP Bail, Bail Support and Supervision (BSS) packages as robust and well managed alternatives to custody and custodial remands and ensure that these, plus Intensive Referral Orders are continuously available to sentencers on all occasions.  
+• continue to work collaboratively with Wiltshire and other YOTs to assist with joint intensive interventions that cross boundaries. 
+6.3.4 Education, Training and Employment 
+Our Aim is to ensure that all young people are in suitable education, training or employment at the close of their intervention; and to strengthen links to local colleges and education providers to help inform the process of engaging a young person and assisting with the decisions around placements. 
+Our plan is to: 
+• improve performance against the local target of at least 89% of young people in suitable ETE. During the period of April 2018 to March 2019 70.3% of young people were in suitable ETE, evidencing that improvement is still required in this area. 
+• continue to promote the use of the software 'Rapid English' which has a proven record of improving a young person's standard of communication and literacy. 
+• ensure that where a question has been answered with a 'yes' in the speech, language communication and neuro-disability screening in Asset Plus that a referral is made to the Speech and Language Therapist seconded to YOT.  
+• continue to promote stronger and more effective links to relevant partners and schemes such as 'working links'. 
+• continue to work closely with the Swindon Family Service to ensure that the YOT and RYS continue to play an active role in the Troubled Families Agenda.  
+• continue to dedicate a YOT resource to ensure relevant young people are offered training and practice required to complete and pass CSCS (Construction Skills Certificate Scheme) to enable them to work in the construction industry if they wish to. 
+ 
+Engaging a young person in suitable ETE remains challenging, and the continued secondment of key personnel to the YOT, including the Educational Welfare Officer and Youth Engagement Worker, remain critical in meeting these ambitious targets of 89% of young people being in suitable ETE. 
+ 
+	6.3.5 	Remands 
+Our aim is to reduce the number of remands to custody by providing bail and remand support packages which have the support and confidence of Magistrates and Judges. 
+Our Plan is to: 
+• continue to deliver training to all Social Work teams and pods outlining their responsibilities when a young person is either remanded to local authority accommodation or to youth detention accommodation (Custody).  
+• ensure that BSS, ISSP Bail and RLAA packages are routinely available to all courts and remand to youth detention accommodation is only used as a last or only resort. 
+• continue to support young people in making bail applications post remand where possible and appropriate. 
+• to work closely with Social Care to try and source suitable accommodation to increase the likelihood of a bail application being accepted post remand.  
+• aspire to keep the costs of remands at or below Local Authority / YJB budget allocations. 
+• continue to be centrally and closely involved in remand planning and welfare meetings with the remanded young person to ensure that the young person is safe from harm or abuse and is afforded appropriate ETE provisions whilst so remanded.  
+• continue to offer 365 days a year contact for young people made subject to ISSP Bail or RLAA with ISS remand management package. 
+• continue to offer intensive BSS packages in order to keep children and young people on bail 
+• monitor local targets, which include the need to ensure that less than 9% of all young people are subsequently remanded into custody.  [Outturn for 18/19 was 
+7.4%]. 
+ 
+	6.3.6 	Custody 
+ 
+Our aim is to reduce the number of young people receiving a conviction in Court who are sentenced to Custody. 
+Our plan, in common with the previous year's is to: 
+• maintain a target of less than 5% of all sentencing outcomes resulting in a Custodial sentence. Outturn: in 2018 to 19 was 6.6%. 
+• ensure that when the Court are considering a custodial sanction that robust alternatives to custody are provided in pre-sentence reports; particularly with regards to statutory alternatives (Intensive Referral Order and Intensive Supervision and Surveillance) and YOT staff are in attendance to advise and advocate if required..  
+• ensure that the Courts are informed of any potential detriments to the young person's rehabilitation and safety and well-being through a custodial sentence are clearly documented in pre-sentence reports. 
+• continue to seek regular feedback from Magistrates regarding PSR robustness and quality and report on concordance data. 
+• continue to provide robust sentence planning and resettlement support for young people in, and leaving custody. Resettlement support is aimed at providing a genuine and intensive offer of support and guidance post release.  
+• ensure YOT continue to go above and beyond the statutory minimum requirements in seeing young people in custody.  
+ 
+	6.3.7 	Accommodation 
+ 
+Our aim is to ensure that young people are in suitable accommodation on release from custody and on the completion of community orders. 
+Our plan is to: 
+• maintain a current target of 95% young people being in suitable accommodation in the above categories. Outturn 2018/19: 92% (note, any young person in custody is automatically deemed to be in 'unsuitable' accommodation)  
+• ensure that YOT links with the Local Authority (Children's Services and Housing) when there are housing concerns for a young person. 
+• advocate for a better range of accommodation for young people. 
+• continue to work closely with Housing and or Children's Services in respect of Custody resettlement cases. 
+ 
+The YOT, Children's Services and Homelessness Team will manage the risks of housing young people in housing crisis by immediate direct notification between the teams once a young person's housing needs have been made known to their respective team. The YOT and the Homelessness Team will work to the principles of The Homelessness Reduction Act 2017 and the Southwark Judgement.  
+ 
+ 
+ 
+	6.3.7 	Resettlement 
+ 
+Our aim is to ensure that children and young people are successfully resettled and reintegrated into the community following a custodial sentence. 
+Our plan, following on and building on last years and incorporating HMIP comments and findings, is to: 
+• continue to allocate an Intensive Interventions Worker as well as a YOT case manager to each young person sentenced to custody so that intensive resettlement support and guidance can be offered leading up to, and post release.  
+
+ensure that the YOT Educational Welfare Officer and/ or the YOT Youth Engagement Worker attends the initial and subsequent sentence planning meetings in the secure estate so that education and employment opportunities can be delivered and maintained in Custody and that timely action is taken in securing suitable provisions upon release.  
+• ensure that parents and carers are involved in sentence planning meetings so that any resettlement concerns can be identified and addressed at the earliest opportunity. 
+• if the child or young person is a MAPPA nominal and it is assessed that multi-agency intervention is required, then a MAPPA Level 2 referral will need to be made by YOT six months prior to release.  
+• YOT will ensure that where relevant, Children's Services (including Care Leavers Team where relevant) are involved throughout the sentence planning and resettlement process to ensure that appropriate 'matching' takes place whilst the child or young person is in Custody so that suitable accommodation is sourced in time for release, offering stability for the young person.  
+ 
+	6.3.8 	Safety in Custody 
+ 
+Our aim is to ensure the safety and wellbeing of children and young people sentenced to custody. 
+Our plan is to build on the previous years and to: 
+• continue to liaise with the Youth Custody Service to ensure that children and young people are sentenced to the most suitable locations in the secure estate. 
+• continue to provide comprehensive 'post court reports' so that the custodial establishment is immediately aware of any safety and well-being concerns upon the child or young person's arrival into the custodial setting.  
+• ensure the allocated YOT case manager continues to complete monthly welfare, sentence planning and pre-release meetings to discuss any safety and well-being concerns that child or young person may have and to ensure a robust plan is being worked through. 
+• continue to have a good level of contact with allocated workers in the secure estate to ensure that any incidents of concern are reported immediately to the YOT.  
+• if a child or young person is made subject to an ACCT, where possible the YOT worker will attend ACCT review. Where unable to attend the YOT worker will seek a full debrief from the allocated member of prison staff.  
+• if post sentence the allocated secure estate placement is deemed unsuitable due to safety and welfare concerns, YOT staff will prioritise completing transfer paperwork to an alternative and more suitable establishment.  
+ 
+	6.3.9 	Safety and Wellbeing 
+Our aim is to ensure we continue to have robust and high quality assessments, plans and management of the safety and well-being of the young person which are meaningful and reduce any risks which will potentially affect the child or young person's safety or well-being. 
+ 
+Our Plan, continuing that from the previous year, is to: 
+• continue to use Asset Plus to provide a holistic overview of the young person's safety or well-being concerns and develop a plan (including ensuring the incorporation of the plans of other key agencies) to safeguard the young person. 
+• ensure accurate assessments and management about the level of safety and/or well-being concerns through countersigning, quality assurance and peer auditing. 
+• to  continue to participate and contribute to Multi Agency Risk Panel (Child Exploitation) and other relevant meetings (MAPPA, MARAC etc.). 
+• to contribute to MASH (Triage)/ Missing, Child Protection and Child in Need conferences and reviews, and to ensure effective and timely information sharing. 
+work with CAMHS to ensure the early identification of mental health issues. 
+• contribute across boundaries (with Wiltshire and other YOTs and wider if required) 
+• to embed monthly risk management and peer QA meetings in YOT quality assure the assessments and management of risk and well-being. 
+ 
+6.3.10 Children Looked After (CLA) 
+ 
+Our aim is to reduce the incidents of CLA coming into the youth justice system - and ensure that protocols/policies are followed in respect of out of Court disposals to improve communication and joint working on appropriate cases between YOT and Children's Social Care. 
+ 
+Our plan is to: 
+• ensure continuous improvement awareness for colleagues in social care of their involvement and responsibilities when a young person is remanded (to Local Authority Accommodation or Youth Detention Accommodation). 
+• continue to improve our links with Children's Services by showcasing our roles and responsibilities in their team and managers meetings. 
+• to ensure all relevant YOT staff have access to ICS; the Children's Services (to be changed to Care Director in 2020) database to enable staff to identify CLA and other vulnerable groups at the earliest possible opportunity and to ensure Children's Services plans are, where relevant, incorporated into YOT plans. 
+• challenge out of borough placements and ensure certainty that the young people in this situation will always be 'looked after' by Swindon (and YOT remains working with such children as a Home YOT as per national protocols). 
+• ensure that the designated Nurse link is maintained. 
+• ensure that the child's voice and feedback is heard and captured and shapes service delivery. 
+• maintain ensure effective links with Independent Reviewing Officers as well as Children's Social Workers. 
+• promote, via the YRIP a 'double lock' approach to ensure that CLA are, where possible and appropriate, kept out of the formal youth justice system and Out of Court and Pre- Court Disposals are appropriately used in any case involving a Child who is Looked After. 
+ 
+6.3.11 Risk of Harm 
+ 
+Our aim is to ensure robust and high quality assessments, planning and management of risk of harm are in place and reviewed and any risk of harm is, where possible prevented. To ensure effective YOT participation in risk forums such as Prevent, MAPPA, MARAC and MARP and that risk is reviewed in a timely and routine fashion. 
+ 
+Our plan, following on from progress made last year, is to: 
+• continue to receive daily intelligence from posted Police staff and ensure that such intelligence contributes to effective and thorough risk assessments. 
+• for YOT management to continue to 'gatekeep' Asset Plus assessments and commission and deliver further training to ensure that staff are reflecting, analysing and recording risk of harm and safety and well-being issues more widely and in greater depth. 
+• ensure that YOT case managers are exploring risk of harm thoroughly and that they do not underestimate the level of harm that a child or young person poses to others and the need to manage this. 
+• ensure that all MAPPA risk management plans are incorporated and replicated in Asset Plus risk management and intervention plans. 
+• ensure MAPPA Q forms are completed for all MAPPA offence eligible cases so that assessment of risk/ need is clearly documented.  
+    contribute to the annual Wiltshire and Swindon  MAPPA Audit and ensure salient information is passed to frontline staff ? 	ensure that assessments and plans are reviewed when required (to timescale or following a material change in circumstance). 
+• ensure interventions to manage risk of harm are consistently delivered and to plan and reviewed. 
+• continue to use the new PRAISE template (designed to be compatible with the new Asset Plus assessment system) to enable peer evaluation and learning takes place. 
+• ensure that there is YOT presence and contribution as needed at MAPPA, MARAC, MARP and the strategic Prevent, MAPPA and Community Safety Partnership Boards. 
+ 
+6.3.12 Volunteers 
+ 
+Our aim is to further embed volunteers into the YOT and personality match them to our workers and young people so that an enhanced level of support can be offered to young people on statutory court orders. Further enhance the range of work that YOT volunteers undertake in a co-ordinated and planned way. 
+ 
+Our plan is, building on having a part time co-ordinator in post, to: 
+• continue to recruit and develop our pool of volunteers and continue to motivate and acknowledge the work that existing volunteers undertake. 
+• broaden the skills of our volunteers through additional training (including updated Referral Order Panel members) and involve them in more one to one activities and case management support where appropriate. 
+• create a database and 'volunteer profile' on each of our volunteers to acknowledge where their skills and interests lie so that these can be utilised in the best way to support the young person via matching. 
+ 
+6.3.13 Knife Crime 
+ 
+Our aim is to reduce the number of incidents involving weapons and to raise awareness of the dangers/ potential consequences (legal or otherwise) of being in possession of a weapon or bladed article. 
+ 
+Our plan is to continue the work we have progressed thus far and to: 
+• continue to raise awareness of the dangers of knife crime and being in possession of a weapon by delivering weapons awareness sessions as a 'prevention' measure; such as via school assemblies and Junior Good Citizens Scheme.  
+• continue to deliver a basic weapons awareness session to every young person who is made subject to a statutory court order (and has not received the session in the school setting). 
+• continue to develop a more enhanced and detailed weapons awareness programme at the YOT which can be delivered across a number of sessions both in the group setting and on a one to one basis. We will capitalise on the Fearless training which all staff received in 2018 /19. 
+• continue to share intelligence with the Police and other partners if there are any concerns that a young person may be known to carry a weapon. 
+• continue to commission Street Doctors and other relevant providers to deliver impactive and educative messages around this agenda. 
+• to look at further opportunities afforded by such innovations as 'Call In' which we can access as appropriate. 
+• continue to work with Wiltshire Police crime prevention colleagues in enhancing our collective understanding and service delivery in this area, to include participation in the annual 'Op Sceptre'. 
+
+ 
+6.3.14 Radicalisation/ Extremism 
+ 
+Our aim is to ensure that staff remain vigilant and aware of the signs of radicalisation / extremism and are able to deliver effective interventions to address this behaviour in partnership when required. 
+ 
+Our plan is to continue to contribute to this agenda and to: 
+• ensure Service Manager (or equivalent) presence on the local Swindon and Wiltshire PREVENT Board which feeds into local service delivery and planning. This will include partnership work internally with the OPAL (CE and Missing) Team in Swindon. 
+• commission the CSP PREVENT lead to deliver a radicalisation/ extremism awareness refresher session during a YOT team meeting. (We as a whole service have already had WRAP 2 training). 
+• refer to the Channel Panel if staff have any concerns about possible radicalisation/ extremism. 
+• contribute to the information gathering and sharing (including mapping) activity of PREVENT and Channel as and when required; in terms of the latter to actively work with partners with any action plans if involving young people.  
+• continue to work with partner agencies and seek support and resources from other YOTs and partners who are more practised in dealing with these issues to ensure YOT have a pool of effective interventions. 
+ 
+6.3.15 BAME 
+ 
+Our aim is to ensure fair, appropriate and proportionate sentencing for BAME who are currently over represented in the youth criminal justice system. 
+ 
+Our plan is to continue to: 
+• ensure the key findings and messages from the Lammy Review are ongoing and understood and embedded by all in RYS and YOT and that our work going forward, acknowledges this and strives to eliminate discrimination in any and all work with children and young people. 
+• ensure all pre-sentence reports involving BAME children and young people will be gate kept by a line manager to ensure the content is free from bias and discrimination and that the sentencing proposal is proportionate and takes account of any discrimination conscious or otherwise.  
+• continue to offer to deliver the 'Young Routes' programme which is aimed at helping BAME young people explore their cultural heritage, beliefs and awareness.  
+• promote, via the YRIP a 'double lock' approach to ensure that BAME children and young people  are, where possible and appropriate, kept out of the formal youth justice system and Out of Court and Pre- Court Disposals are appropriately used in any case involving a  Child who is  from a BAME background. 
+ 
+ 
+For more information contact:
+ 
+Melissa Smith - YOT Operational Manager  
+mnorton@swindon.gov.uk  
+      
+ 
+7 RISKS TO FUTURE DELIVERY AGAINST YOUTH JUSTICE OUTCOME MEASURES  
+	7.1   	The Swindon YOT Management Board receives a quarterly risk update via a risk register which covers and reports on the following areas:   
+ 
+	7.1.1 	Operational 
+• Dangerous or serious incident committed by young person known to YOT. Including violent extremism or other high interest offence causes media and political     interest. 
+• Loss of Data.  Issues related to internet ChildView IT Case Management System causes data loss or interruption to services. 
+• National offences such as riots/ major custody incident involving multiple young people in police custody and courts. 
+• Replacement of or upgrade to Management data base. 
+• Police Investigations within the young person secure estate and risk of harm to young people. 
+ 
+7.1.2  Performance and Standards ? 	Fail to achieve KPIs: 
+* Increase in FTEs 
+* Increase in re-offending ? 	Increase in Custody 
+• Connectivity and 'Missing docs'. When young people are Remanded or sentenced to custody an assessment of their risk of harm to themselves or others is made at court and must immediately follow the young person into the secure estate. 
+ 
+	7.1.3.  Funding 	 
+• Funding uncertainty beyond next 12 months. SBC financial pressures.  ? 	Remand costs are met by the LA. 
+• Small numbers Remanded for a group offence or one young person for a serious offence can have significant financial implication for the LA. 
+ 
+	7.1.4 	Partnerships  
+• Statutory partners unable to maintain support or resources as staff secondments or postings end or staff leave. 
+• Partnership redesigns impact on YOT core service and early interventions. 
+ 
+	7.1.5 	Reputation 
+• HMIP Inspection regime.  
+• Data loss/ access due to deception or staff misdemeanour. 
+ 
+	7.1.6 	Buildings and Infrastructure 
+• Health & Safety issue adversely affecting staff.  
+ 
+7.2         Specific Risks to future delivery above those regularly reported on in Management Board meeting are as follows: 
+ 
+7.2.1 Reducing First Time Entrants (FTE's) into the criminal justice system 
+             Swindon YOT have, in partnership with the police, designed and launched the Youth Restorative Interventions Panel in Swindon. This Panel triages and examines all bar the most serious (Indictable only) offences which come to the notice of the police and (currently) where the child or young person has not yet received any formal criminal justice outcomes. We recognised the high proportion of FTE's that we have previously had in Swindon (and Wiltshire) and the 'caution culture' which existed in the police and, with Chief Executive and Constable support, created an intuitive and different approach better suited to understanding presenting needs and issues and dealing with them in an 'early identification and intervention' style with a view to dealing swiftly with issues and risks. 
+ 
+7.2.2 Reduction in the use of Youth Custody and /or secure remands 
+Custodial sentences and remands are based on low numbers, with the Swindon outturn in line with the national rate. Our numbers, despite being around our locally set target, fluctuate and in the last year seem to have plateaued at between the 6 to 8th individual Young Person's mark. This is in part in relation to more serious offences (GBH / weapons and serious sexual offending) and sentences (including 4 x s.91 sentences of 4 years or more) and a small, but impactful cohort of young people persistently offending and re-offending; most recently when subject to intensive post custody Licences. This will always be a fluctuating figure but we will continue to ensure we maintain the confidence of sentencers (in both Youth and Crown Courts) that our alternatives to custody (BSS, ISSP Bail and remand packages, ISS as a YRO requirement) are always considered and almost always used prior to any custodial outcome. 'Spike' events, however are difficult to predict and prevent and, as we have seen in the past, risk skewing the targets and performance of the YOT. Swindon YOT continue to hold 'compliance meetings' prior to any consideration around Breach and a possible return to Court for the young person. 
+7.2.3 Learning from and incorporating audit and review into improving practice and systems 
+             The previous year has seen a variety of audits and reviews looking at the internal and case management practice of the YOT as well as wider issues such as finance and compliance with national and local standards. HMIP throughcare inspection tracked on of our cases both during the custodial phase as well as post release and during the notice of supervision. We have incorporated the learning into our practice as specified in the Throughcare section. 
+             GIAA and NOA audit confirmed our compliance with the terms and conditions of grant from the YJB and thus there are no specific changes which result from this; save to assure that we continue to spend our grant and partnership contributions in maintaining front line practice and service delivery. 
+             Swindon Borough Council Internal Audit completed an internal audit of the YOT over 2018/ 19.They made observations and recommendations around the better use of case management information and data; to inform and guide resourcing and practice. We have therefore commissioned our case management provider, CACI, to deliver a specific and bespoke round of additional training for all levels and aspects in YOT; performance information and reporting, case management, quality assurance and management oversight and the use of data to analyse trends and outputs. A renewed focus on timeliness and national standards is welcome as we seek to embark on our 'benchmarking' exercise around the new standards for youth justice which came into effect in April 2019. This will commence in September 2019. 
+             In February 2019 we hosted a sector led Peer Review of Swindon YOT which focussed on the following key lines of enquiry: (a)  the skills mix and capacity in YOT and its ability to reach into broader and emergent issues such as Child Criminal Exploitation (CCE), Dangerous Drugs Networks (DDNs) and County Lines (b) the quality and timeliness of assessment, planning, intervention and supervision (APIS) with a focus on FTEs , CLA and ISS (c) the YOT Management Board and its use of data and challenge and (d) the 'golden thread' of capturing and evidencing the Voice of the Child (VOC). 
+             Recommendations included YOT Board members adopting a more pro-active and thematic approach to their roles and responsibilities and the need to update and refresh induction and refresher inputs; we will therefore ensure this will be undertaken in a planned and staged approach. They also talked about YOT structure and operational management capabilities and clearer interface and pathways with wider partners to ensure improved outcomes in education and for CLA. The opportunities afforded by the service redesign (FISS) will ensure these are built in and clear with improved resourcing (YOT EWO) and access to wider and more diverse resources and services (FGC, Family Service, early help, youth engagement). The FISS will also provide the platform to enable three further recommendations to be translated into reality; the re-rolling of the YOT police staff to increase their capacity and reach to reduce FTEs (via the YRIP) and to be deployed in line with national best practice, joint planning and linkage between wider Children's services and YOT; particularly (but not exclusively) CLA and the rebranding of the YOT to a Youth Justice (and Diversion) Service; to better reflect the focus of the team and on the child rather than the presenting problem. Our plan, therefore, is to ensure that the redesign achieves all of this and more and that the Swindon Youth Justice and Diversion Service continues to strive to provide consistently good services and outputs to all the children, young people and connected others it works with in the coming year and beyond. 
+             We have also held a series of extra-ordinary YOT Management Board meetings during early 2019; both to receive the findings and recommendations from the Peer Review but also to consider the leadership and management of the YOT and check and test the Boards capacity and resilience in providing both support and challenge to the work of the YOT in Swindon. Throughout we have used HMIP Domain 1 as a benchmark and a resultant draft improvement and action plan has been produced; a majority of the actions arising from this are permeated throughout this plan. The Board will continue to monitor progress and outputs from this and all those areas specified above as well as to continue to champion the youth justice agenda throughout their respective agencies and organisations.  
+               
+8.   PARTNERSHIP SIGNATURES Susie Kemp Job Title Chief Executive Of The Local Authority (Swindon Borough Council) Signature  Date 26/07/19 David Haley Job Title Corporate Director of Children's Services  
+Chair of the Swindon YOT Management Board   
+ Signature Date 31/07/19 Sonja Leith Job Title Head of Crime Prevention, Wiltshire Police Signature  Date 25/07/19 Steve Smith Job Title On behalf of National Probation Service Signature  Date  Gill May Job Title Director of Nursing & Quality, NHS Swindon Clinical Commissioning Group Signatures Date 31/07/19  
+
+9.  GLOSSARY ABC 
+AIM 
+ASB 
+ASSET 
+ BME 
+CAF 
+CAMHS 
+CPN 
+CPS 
+CSP 
+CSPPI 
+ 
+CV 
+DTO 
+ETE 
+EWO 
+FTE 
+HMCTS 
+HMYOI 
+IOM 
+ISS 
+KPI 
+LAC 
+LASCH 
+LASPO Acceptable Behaviour Contract 
+Assessment Intervention Moving On 
+Anti-Social Behaviour 
+Assessment Tool Planning, Interventions & Supervision 
+Black & Minority Ethnic 
+Common Assessment Framework 
+Child and Adolescence Mental Health Service 
+Community Psychiatric Nurse 
+Crown Prosecution Service 
+Community Safety Partnership 
+Community Safeguarding & Public Protection Incident 
+ChildView  Case Management System 
+Detention and Training Order 
+Education, Training and Employment 
+Education Welfare Officer 
+First Time Entrant 
+Her Majesty's Courts and Tribunal Service 
+Her Majesty's Young Offenders Institution 
+Integrated Offender Management 
+Intensive Supervision & Surveillance  
+Key Performance Indicator 
+Looked After Children 
+LA Secure Children's Home 
+Legal Aid Sentencing & Punishment of 
+Offenders Act LSCB 
+MAPPA 
+MARAC  
+MARP 
+MoJ 
+NEET 
+NOMS 
+NPT 
+NS 
+PHE 
+OHFT 
+On Trak    
+PACE 
+PCC 
+PRAISE 
+PSR  
+PVE 
+RMP 
+RJ 
+RLAA 
+RO 
+ROSH 
+RYDA 
+SAVRY 
+SEND Local Safeguarding Children Board  
+Multi Agency Public Protection Arrangements 
+Multi-agency Risk Assessment Conference 
+Multi Agency Risk Panel 
+Ministry of Justice 
+Not in Education, Employment or Training 
+National Offender Management Service 
+Neighbourhood Policing Team 
+National Standards 
+Public Health England 
+Oxford Health Foundation Trust 
+Youth Counselling Service 
+Police and Criminal Evidence Act 1984 
+Police & Crime Commissioner 
+Peer review audit tool 
+Pre-Sentence Report 
+Preventing Violent Extremism  
+Risk Management Plan 
+Restorative Justice 
+Remand to Local Authority Accommodation 
+Referral Order 
+Risk of Serious Harm 
+Remand to Youth Detention Accommodation 
+Specialist Assessment of Violence Risk in Youth 
+Special Education Needs or Disability SCI 
+SHARP 
+SMU 
+SOS 
+STC 
+STASTC 
+TAC 
+TaMHS 
+U-Turn 
+WLCJB 
+YEW 
+YJB 
+YOT 
+YP 
+YRIB 
+YRO Swindon Crime Initiative 
+Safeguarding, Harm and Risk Panel 
+Substance Misuse 
+Signs of Safety (Safeguarding model of working) 
+Secure Training Centre 
+See the adult, see the child 
+Team Around the Child 
+Targeted Mental Health Service  
+Young Peoples drug service 
+Swindon Local Criminal Justice Board 
+Youth Engagement Worker 
+Youth Justice Board 
+Youth Offending Team 
+Young Person 
+Youth Restorative Intervention Board 
+Youth Rehabilitation Order  
+Restorative Youth Services comprises the Swindon Youth Offending Team, U turn Young People's Substance Misuse Service and On Trak Youth Counselling Service.  
+ 
+To find out more about its work in preventing or reducing crime amongst 10-17 year olds, Substance Misuse work and Counselling simply come along to our Free bi-monthly information Session from 2:00pm to 3:30pm on: 
+   
+• 9th August 2019 
+• 11th October 2019 • 6th December 2019 
+• 7th February 2020 
+Annex 1 - Swindon YOT Terms of Reference 
+ 
+ 
+            
+  
+Amendment History o 	July 2005 o 	April 2008 o 	July 2011 o 	October 2011 o 	October 2013 o 	July 2015 o 	April 2017 SWINDON YOT 
+   	MANAGEMENT BOARD 
+ 
+ 
+ 
+ 
+TERMS OF REFERENCE 
+ 
+ 
+1. Introduction 
+ 
+1.1 The Swindon Youth Offending Team is established under Section 37 of the Crime and Disorder Act 1998 with the principal aim of preventing offending by children and young people. The Board (see below) is required to manage the performance of the prevention of youth crime agenda, and ensure the delivery of the statutory principal aim at local level. 
+ 
+1.2 The Local Authority Chief Executive is required to take the lead in ensuring that adequate and suitable governance arrangements are in place (including accountable links to an inter-authority members' group) to ensure that all the statutory partner agencies are fully participative in the Steering Group (Management Board) as required under relevant legislation. 
+ 
+2. Aims 
+ 
+2.1 The Board will be responsible for ensuring that the Restorative Youth Services Plan, which incorporates the Youth Justice Plan, is prepared, monitored and delivered. It will provide the overall strategic direction for Youth Justice services, and offer scrutiny, oversight & challenge and monitor objectives linked to the key targets, within the national framework established by the Youth Justice Board, Health and other locally agreed priorities.  
+2.2 The Board will comply with their statutory responsibilities under relevant legislation to ensure that the Youth Offending Team is sufficiently resourced to prevent offending and re-offending by young people in Swindon. 
+2.3 The Board will establish and monitor a staffing profile for the YOT which ensures clarity of roles; holds individuals to account; and provides for the skills, knowledge and experience needed to fulfil the objectives set. The Board is responsible for recruiting and selecting the Service Manager, and for ensuring that there are sufficient resources deployed to meet the stated aim. 
+2.4 The Board will ensure that the work and development of the Restorative Youth Services is given a high profile within all partner agencies, and within Swindon, through effective marketing to improve public confidence in the Youth Justice system. 
+ 
+3.   Board Membership 
+ 
+3.1 The composition and governance of the Youth Offending Team is informed by national and local strategic requirements and relevant policy directives, as well as by the Youth Justice Board's document 'Modern YOT Partnerships' which requires members to have sufficient seniority and authority to be able to commit resources to the YOT or the wider youth crime prevention agenda. 
+3.2 The Board will consist of Senior representatives of the funding partners Swindon Borough Council, - Children's Services, Children, Families & Community Health, Early Help and Social Care; Health; Education; Police & PCC; Probation; NHS Swindon Clinical Commissioning Group and Specialist CAMHS; Oxford Health. Additionally other members with full voting rights are to include: Swindon Borough Council Housing; and Her Majesty's Courts and Tribunal Service. 
+3.3 Other representatives from related organisations or stakeholders will also be invited to attend and the Board recognises a duty to encourage and support representation from these organisations that have a role in preventing and reducing offending by young people, or in providing support, advice and guidance for the wider Restorative Youth Services. 
+3.4 The Board will be chaired by the Chief Executive, or a Board Director of Swindon Borough Council, or other senior member of the YOT Board as agreed by a majority of partners with voting rights. 
+3.5 Four members of the Management Board with full voting rights, which must include a representative from Swindon Borough Council, must be present for quoracy to be satisfied. 
+3.6 The Board will be clerked by the YOT Managers PA or other nominated person agreed by the Board. 
+ 
+4.   Linkages with other strategic groups    
+ 
+4.1 The Board will ensure that there are strong linkages with the following strategic groups; 
+ The Children's Strategic Partnership Board 
+ The Wiltshire  Criminal Justice Board 
+ The Swindon Community Safety Partnership 
+ The Health and Wellbeing Board 
+ LSCB (now the Swindon Safeguarding Partnership) 
+ 
+5.   Operational 
+ 
+5.1 The Board will ensure effective delivery of services to prevent youth crime and promote the wellbeing and the safeguarding of young people by 
+ Securing the appropriate financial, estates, personnel, strategic challenge and planning, and case management reporting tools in accordance with national and local legislative and policies/procedures. 
+ Monitoring the performance of the RYS against key examples of effective practice, including key Youth Justice targets and outcomes from inspections to ensure continuous improvement. 
+ Ensuring that the work of RYS is integrated into local Criminal Justice Board, Community Safety Partnership and Children's Services as well as other relevant forums, and that there are clear lines of communication.  
+ Contributing to and approve the annual RYS Plan for recommendation to Partner agencies prior to final submission to the Youth Justice Board. (RYS Plan) and the relevant SBC committee. 
+ Ensuring that RYS staff receive appropriate training and development opportunities in accordance with the legislation, guidance and best practice. 
+ Ensuring that core staffing are retained from the statutory agencies, and agreements in place to second staff.  
+ 
+ 
+ 
+ 
+ 	Annex 2 - Swindon YOT Partnership Agreement 
+ 
+ 
+ 	 
+SWINDON YOUTH OFFENDING TEAM 
+PARTNERSHIP AGREEMENT 
+	  	(under the umbrella Restorative Youth Services) 
+  
+ 
+ 
+ 
+ 
+1. Statutory Framework 
+ 
+1.1 The Swindon YOT Partnership is responsible for the strategic direction, resourcing and the operational delivery of the Youth Offending Team in Swindon.  The YOT now operates under the broader umbrella of Restorative Youth Services, but the legal status of the partnership is determined under the Crime and Disorder Act 1998.  Swindon Borough Council as the relevant local authority is the lead partner; and has the primary responsibility to the relevant Secretary of State to ensure that the Youth Offending Team is able to fulfil the requirements and deliver the service required under the Act, as added to by subsequent legislation, and meets the requirements of all relevant legislation applicable to the designated age range.  The other statutory partners named in the Act are Children's Services, Education, Health, Police, and Probation who have a duty to ensure, through the provision of resources and contributions to the Board, that the Swindon YOT Partnership is in a position to fulfil its statutory requirements to meet the relevant provisions of the Act and the requirements of the Youth Justice Board in its functions on behalf of the relevant Secretary of State. 
+ 
+2. Membership of the Partnership 
+ 
+2.1 The statutory partners are the Local Authority; Children's Services, Children, Families & Community Health, Early Help and Social Care; Health; Education; Police & PCC, and Probation. In practice this will be Senior representatives of the funding partners Swindon Borough Council, - Children's Services; Swindon Police; Probation Service; NHS Swindon Clinical Commissioning Group and Specialist CAMHS; Oxford Health. Additionally other members with full voting rights are to include: Swindon Borough Council Housing;  
+ 
+2.2 Strategic oversight and accountability for the Youth Offending Team will be provided by a YOT Management Board comprising the statutory partners above, and, as the YOT Management Board and/or YOT Management Board Chair see fit, added to, permanently or for a specific period of time, by other agencies and individuals, who may contribute to the work of the YOT Management Board.  The YOT Management Board Chair will be a representative from one of the statutory partners and will be appointed for a minimum of 24 months normally at the commencement of the financial year, supported by a vice Chair also nominated by the members. 
+ 
+2.3 In the event the YOT Management Board are unable to agree on a Chair for any particular period, the Local Authority Chief Executive shall determine the matter.   
+ 
+2.4 The YOT Management Board will be the ultimate arbiter of any disputes between the partners. Nonetheless, nothing in this agreement detracts from the members of the Board's individual responsibilities to their own organisations.  The YOT Management Board will meet as and when necessary, will appoint working groups from within the membership when necessary, and will receive reports as required from the Service Manager.  The YOT Management Board will appoint the Youth Offending Team Service Manager whose primary role is to manage the Youth Offending Team, which will be the primary vehicle for delivery of Youth Offending Services as well as other services comprising Restorative Youth Services.  The Youth 
+Offending Team Service Manager will also be responsible for promoting and advocating the purpose of the Youth Offending Team amongst the partnership, relevant statutory agencies, and other organisations, and the public.  The Youth Offending Team Service Manager will normally be employed by the Local Authority.  
+ 
+3. Vision and Objectives 
+ 
+3.1 Vision:- 
+ 
+'Children and young people who have offended or at risk of offending will be offered the opportunities and support they need to become valued and productive members of our community'. 
+ 
+3.2 Primary Purpose:- 
+• The prevention of offending           by children & young people 
+• The reduction of re-offending 
+ 
+3.3 Subsidiary Purpose:- 
+ 
+• Contribute to relevant Local Authority strategic aims and objectives (Community Safety Partnerships) and Local Criminal Justice objectives. 
+• Contribute to reducing youth anti-social behaviour. 
+• Contribute to improved outcomes for Children In Care. 
+• Contribute to the safeguarding of children. 
+• Contribute to improving outcomes to CYP in Swindon. 
+ 
+4. Aims and Objectives 
+ 	 	 	 
+4.1 Aims:- 
+• To reduce the risk posed by young offenders to their victims and to potential victims, to their communities and to themselves. 
+• To reduce the numbers of children and young people at risk of involvement in crime and anti-social behaviour from entering the formal Criminal Justice system. 
+• To ensure that all community penalties and post custodial licences are managed effectively and enforced to national standards and provide end to end offender management for the relevant age range. 
+• To increase the level of victim and community satisfaction with the outcomes of the youth justice system. 
+• To deliver or access services to meet the complex needs of a minority of young offenders. 
+• To encourage parents/ carers of young offenders, as well as those of children at risk of offending, to support the purpose and aims of the Swindon Youth Offending Team Partnership. 
+• To encourage members of the community, community organisations, and other agencies and organisations to support the purpose, aims and work of the Swindon Youth Offending Team Partnership. 
+• To protect young people who themselves are (or are at risk of becoming) victims of crime.  
+ 
+4.2 Objectives: - (actual targets will be set annually taking in to account the local situation and YJB            	determined KPI targets) 
+ 
+• To contribute to Local Authority and its partners achieving national indicators. 
+• Support partners in improving performance and outcomes for young people. 
+• To reduce the number of first time entrants to the criminal justice system by the end of each financial year. 
+• To reduce the frequency and seriousness of re-offending by the end of each financial year. ? To improve adherence to key national standards each financial year. 
+• To improve levels of compliance with community penalties and post custodial licences each financial year. 
+• Year on year 
+* to increase the number of young people in Education, Training and Employment (ETE) to above the national average;  
+* to increase the numbers of parents/carers engaged helping to deliver the intervention 
+plan for their child;  
+* to improve compliance with health and substance misuse services. 
+* reduce remands and custodial sentences. 
+ 
+• To contribute to a reduction in the disproportional representation of BME groups in the criminal justice system year on year. 
+ 
+[These specified objectives will be reviewed annually and may be altered or added to by a decision of the YOT Management Board]. 
+ 
+5. Organisation and Resources 
+ 	 	 	 
+• The YOT Management Board will be responsible for ensuring that sufficient resources are available to deliver the services required under the Crime and Disorder Act 1998, subsequent legislation and the requirements of the YJB in its delegated role from the relevant Secretary of State. 
+• The level of resources will be subject to annual negotiation with the Youth Offending Team Service Manager and the YJB and will be set out in the annual Youth Justice Plan (or equivalent as required by the YJB) required under the Act. 
+• The cash resources allocated locally are subject as appropriate to partnership auditing requirements and all resources will be regarded as a pooled budget and subject to Board agreement all surplus resources shall be carried forward year on year. 
+• Staff allocated from all partnership agencies will be operationally accountable to the Service Manager of the Youth Offending Team under the secondment agreement for staff (O:\ Socserv\ WG_Limes\ shared\ POLICIES.PROCEDURES.PROTOCOLS & SLA's\ POLICIES\ YOT\ Secondment arrangement for Staff) signed off by the relevant senior managers. 
+• The Youth Offending Team Service Manager will be responsible for:- 
+* Ensuring that the service is delivered within the allocated resource levels (including the YJB and other non-partnership resources) to the legislative and administrative standards required by the partnership and the YJB. 
+* Ensuring that working practice, building and infrastructure meet the health, safety and security requirements of the Swindon Borough Council and partner agencies. 
+* Ensuring that the HR and workforce development standards meet those of the Swindon Borough Council and partner agencies. 
+* Ensuring best value and the most effective use of resources towards the aims and objectives of the partnership and the YJB. 
+ 
+6. Accountability of the Partnerships 
+ 
+• The resources, staffing, performance and future plans of the Partnership are contained in the annual Youth Justice Plan (or equivalent as required by the YJB) which is signed off by all YOT Management Board partners and is primarily completed to fulfil the requirement in the 1998 Crime and Disorder Act.  
+• The Plan will be submitted to the Boards/Chief Officers groups of the partner agencies and the executive of the local authority for formal approval and for information.  
+• The Plan will show accountability in relation to the use of partner agency resources and to demonstrate the links with partner agencies plans and wider responsibilities. 
+• The local authority remains the lender of last resort in terms of resource shortfalls and is the primary accountable body amongst the partners in terms of legal and financial accountability for the YOT Partnership.  
+• Major changes in contribution/ resources based on historical figures will be brought to the YOT Management Board for their consideration.  
+• The Chair of the YOT Management Board remains the final arbiter in any continuing disagreement. 
+• Transport costs of staff should be borne by the host agency of each staff member. 
+ 
+• Vacancy Management: - 
+* Partners agree to replace staff speedily and where salary costs are not incurred by the host agency, these should be passed to the YOT to facilitate backfill arrangements. 
+* Where there are long term vacancies e.g. due to sickness or maternity, host agencies will endeavour to offer 'cashless' cover for the shortfall e.g. temporary assigning staff to the YOT. 
+* All staff seconded/placed to/ in the YOT will sign the latest version of the staff secondment agreement. 
+* Any Changes in the level or scope of resourcing by partner agencies will be agreed in advance by the Management Board.  
+ 
+7. Information Sharing 
+ 	 
+7.1 This agreement fulfils the requirements of the following: - 
+• Legal Aid, Sentencing and Punishment of Offenders Act 2012  
+• The Civil Evidence Act 1995;  
+• The Crime and Disorder Act 1998 (section 115);  
+• Common Law Powers of Disclosure;  
+• The Rehabilitation of Offenders Act 1974;  
+• The Human Rights Act 1998 (article 8);  
+• The Data Protection Act 1998 (sections 29(3) & 35(2).  
+• Children and Young Persons Act 1969  
+• Children Act 1989  
+• Advice on Information Management in Youth Offending Teams (England) 2011  
+• General Data Protection Regulations 2018 
+ 
+7.2 This agreement has been formulated to facilitate the exchange of information between partners. This agreement authorises the sharing of information relating to the agreed data sets and relevant material outlined within this document between parties to this agreement without a specific request or authority. 
+ 
+The sharing of personal data requires careful judgement in which the identified need must be considered against relevant issues dictated under Data Protection and Human Rights legislation. Any information partner agencies consider sharing must therefore be accurate, necessary and proportionate in line with partner agency protocols and legislation governing any activities. 
+ 
+7.3 Information Exchange relates to a physical exchange of data between one or more individuals or agencies. Advice from the Information Commissioner indicates that public authorities may exchange data, provided that:  
+• They have notified their intention to do so.  
+• That the process of exchange is in accordance with the Data Protection Act, in particular the eight principles forming Part 1 of Schedule 1 and GDPR.  
+• There is a statutory or common law power to do so (including the 'need to reduce crime').  
+ 
+7.4 The Data Protection Act requires the fair processing of information unless an exemption applies. In particular, fairness involves being open with people about how their information is used. The most likely exemption from the fairness requirement is sharing personal data for the prevention and detection of crime and disorder, where the disclosure of that fact would be likely to prejudice the investigation.  
+ 
+7.5 Each of the service level agreements between the partner agencies and the YOT will usually outline the specific information sharing arrangements.  Partnership arrangements about information sharing are also connected to the wider information sharing protocol of the Swindon Crime and Disorder Reduction Partnership (Safer Swindon). 
+ 
+ 
+	SIGNATORIES  	 	 
+ 	 
+• Corporate Director Children's Services  
+• Service Manager, Restorative Youth Services 
+• National Probation Service  
+• Director of Children's Social Work  
+• Superintendent Wiltshire Police 
+• Service Manager for CAMHS, Swindon & B&NES (Oxford Health) 
+• Principal Officer Health and Wellbeing (Children and Families) 
+• Deputy Chair of the Youth Court Bench 
+• Chair of the Swindon Youth Court Bench 
+• Legal Adviser, HM Courts Tribunal Service 
+• Head of Education  
+• Office of Police and Crime Commissioner, Swindon and Swindon 
+• Designated Nurse, Swindon CCG  
+• Head of Housing Services Commissioning - Housing and Community Safety 
+• Commissioner, Routes to Employment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+YOT MANAGEMENT BOARD 
+MEMBER DECLARATION/ COMMITMENT 
+  	  
+ 
+ 
+ 
+Name: 
+Organisation: 
+Individual members of the Swindon Youth Offending Team Management Board have a duty to contribute to the effectiveness of the Board. 
+ 
+I accept responsibility: 
+• To ensure the Board functions effectively and takes forward the business plan. 
+• To play a key role in raising awareness of key Youth Offending, Prevention and Safeguarding issues within my organisation and the wider community; and to communicate messages effectively and in a timely fashion in either direction. 
+• To contribute towards achieving better outcomes for children and young people. 
+• To ensure that our approach is effective within my organisation and that staff have appropriate knowledge and skills to ensure Safer Recruitment and effective safeguarding practices adopted within my organisation. 
+• To challenge poor practice and support a positive approach to promoting effective practice and safeguarding. 
+• To have completed appropriate child protection and safeguarding training (and refresh this training as required) - including training in respect of Child Sexual Exploitation. 
+• To keep all sensitive and personal information confidential and to share information appropriately within statutory guidance. 
+• To carry out assigned actions (as defined during the course of YOT Board and sub-group meetings) promptly and effectively. 
+• To be an ambassador for Swindon Youth Offending in all my work areas and functions. 
+ 
+ 
+Signed: 
+ 
+Date: 
+ 
+ 
+ 
+Annex 3 - Managing Risk Procedure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+	 	Managing Risk Procedure 
+ Assessing & managing high risk of harm, high  safety and well-being a child protection cases. 
+ 
+	 	                  Version 1.1 
+ 
+ 
+ 
+ 
+ 
+Effective date: August 2017 
+Review date: August 2020 
+Issued by: Melissa Norton 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Introduction 
+ 
+Risk assessment is pivotal to the work of Swindon Youth Offending Team, whether this is the assessment of risk posed by the Young Person to the Public and/or specific named individuals or risk presented directly to the Young Person. The assessment of risk not only encapsulates the index offence but also takes into consideration current and previous offences and other behaviour that may not have resulted in conviction (e.g. behaviour within the family or at school). Youth Offending Team staff are trained to recognise risks and identify the appropriate channels to alert others to help manage the risk. Staff within the Youth Offending Team work under the 'scaled approach' principle (the higher the level of risk, the greater the level of intervention) when designing and delivering intervention plans to reduce risk of re-offending, ensure the welfare of the Young Person and protecting the community. Youth Offending Team assessments and intervention procedures recognise that  risk is dynamic and as such should be reviewed regularly in line with National Standards or if there is a change in circumstances/behaviour.  
+ 
+ 
+2. Definitions 
+ 
+Risk of Harm: Refers to the likelihood that an offence causing physical or psychological harm may occur. It is often used interchangeably with 'risk of serious harm', although they should have different definitions, relating to the impact or degree of harm of the criminal behaviour.  
+ 
+Risk of Serious Harm: Death or injury (either physical or psychological) which is life threatening and/or traumatic and from which recovery is expected to be difficult, incomplete or impossible.  
+ 
+Dangerous Offenders: Refers to someone who is convicted of an offence specified by Schedule 15 of the Criminal Justice Act 2003, all of which are sexual or violent offences carrying a penalty of two years or more including life and have been assessed by the Court as posing a significant risk to members of the public of serious harm by the commission of further specified offences. The term dangerous offender should not be used for those assessed by YOT as posing a high risk of harm and should only be used in relation to cases where the Court has made an assessment of dangerousness. 
+ 
+Persons Posing a Risk to Children (Replaced Schedule 1 Offender Definition): The term 'Risk to Children' applies once an individual has been identified as presenting a potential risk of harm to children/young people. The term incorporates those individuals who have been convicted for an offence under Schedule One and is assessed as posing a future risk of harm to children/ young people. Some individuals convicted of violent or sexual offences not detailed or included in Schedule One may be assessed as posing a future risk to children. Additionally there will be cases where a person without a conviction or caution may pose a risk to children/young people. For example, a finding of fact in civil court that an individual poses a risk to children, an individual subject to a Sexual Risk Order (Anti-Social Behaviour, Crime and Policing Act 2014) or other non-offence related information indicates that an offender presents a risk to children. A list, albeit not an exhaustive list of offences which could indicate that a person poses a risk to children can be found in Appendix A.  
+ 
+Safety and Well-being: Safety and well-being relates to the potential adverse outcomes for a young person's safety and well-being and is defined as those outcomes where the young person's safety and well-being may be compromised through their own behaviour, personal circumstances, or because of the acts/omissions of others. Consideration needs to be given to whether there are concerns around his or her own behaviour based on what the young person, their parents/carers or others have said; any concerns for his or her personal circumstances; and/or the potential acts or omissions of others, who might be a risk and what is their access, influence and control. 
+  
+There are four identified categories of safety and well-being;  
+• Low (no risks to the young person's safety or well-being have been identified or the risks identified are unlikely to occur and would not impact on the young person's safety and well-being).  
+• Medium (some risks to the young person's safety and well-being have been identified and are likely to occur. The young person's immediate safety and well-being is unlikely to be compromised provided specific actions are taken).  
+• High (clear risks to the child or young person's safety and well-being have been identified, are likely to occur and the impact would compromise the young person's safety and well-being. Actions are required in 
+the near future and are likely to involve other agencies in addition to youth justice services)  
+• Very High (clear risks to the young person's safety and well-being have been identified, are imminent and the young person is unsafe. Immediate actions are needed to protect the young person, which will include or have already included a referral to statutory Child Protection Services).  
+ 
+Child Protection Case:  If a child is made subject to a child protection plan, it means that a network of agencies including social care consider the child to be at risk of significant harm in one of more of the following four categories; physical abuse, sexual abuse, emotional abuse and neglect.  
+ 
+3. Using Asset Plus to assess risk 
+ 
+All operational staff will receive training on the completion of ASSETPlus, as part of their induction training into the Youth Offending Team. Further training will be given as part of refreshers, new processes and new legislation. 
+ 
+As well as considering and including an assessment of 'risk of serious harm', Asset Plus also considers all future harmful behaviours that the young person might engage in. Risk of harm assessments will be audited and countersigned by an Operational Manager though the Explanations and Conclusion section of Asset Plus. Asset Plus should be reviewed in accordance with National Standards and should be reviewed as part of the normal supervision process.  
+ 
+4. Using Asset Plus to Assess Safety and Well-being 
+ 
+Asset Plus encourages staff to consider safety and well-being in a similar way to risk of serious harm, e.g. what is the concern, what impact will it have, how likely is it to occur and where will it happen (in the community, custody or both). The Asset Plus assessment tool directs staff to consider whether there are any concerns around the young person's own behaviour, whether there are any safety and well-being concerns linked to the young person's own personal circumstances or whether there are concerns linked to the potential acts or omissions of others (looking at who might be a risk and what is their access, influence and control). Adverse outcomes to the young person need to be clearly identified as to their nature and whether the outcome is already happening, whether it is a threat from others, whether there is evidence of acts or omissions from others in the past or whether potential future behaviours have been identified. The impact of these adverse outcomes which could be physical, psychological and/or emotional also need to be assessed and are done so as follows: 
+• Slight - Recovery is immediate or no recovery time is required 
+• Minor - Recovery in the short term (<1 month) 
+• Medium - Recovery in the medium term (1 to 6 months) 
+• Major - Recovery in the long term (>6 months) or incomplete 
+• Critical - No recovery possible 
+ 
+The nature (what is the problem), the causes (why it will occur), who will be involved and the likelihood and imminence are all considered in the overall safety and well-being rating and should be clearly analysed and documented by staff in the Asset Plus safety and well-being section with clear objectives identified in the intervention plan to safeguard the young person and to reduce these risks and concerns. Safety and well-being assessments will be audited and countersigned by an Operational Manager through the Explanations and Conclusions section of Asset Plus.  
+ 
+ 
+ 
+5. Additional Processes 
+Where the Court are considering a sentence of custody on a young person, a full Pre Sentence Report (PSR) should be prepared that specifically addresses issues of risk of harm and risk of serious harm to others. PSR's should also include an assessment of any concerns related to the safety and well-being of the young person being sentenced. 
+All cases that have been assessed as high risk of harm or high safety and well-being should be discussed in supervision sessions and should be regularly reviewed either in supervision sessions or peer case discussions and any decisions minuted and recorded on Child View.  
+All referrals for reparation or the youth justice centre should include clear indication of any risk and safety concerns, and following referral any changes in risk level should be brought to the attention of the YOT reparation co-ordinator and/or the Youth Justice Centre senior officer.  
+ 
+6. MAPPA Cases: 
+MAPPA (Multi-Agency Public Protection Arrangements) are the framework under which agencies work together to reduce the risk of serious reoffending behaviour by violent or sexual offenders. The offenders who fall under MAPPA are identified by three categories: 
+• Category One: Registered sex offenders for the period of their registration. 
+• Category Two: Other sex offenders and violent offenders (sentenced to twelve months imprisonment or more), usually for the period that they are being supervised by the Youth Offending Team or the Probation Service.  
+• Category Three: Other offenders who have been convicted of an offence which indicates that they are capable of causing serious harm to the public, and it is believed that they offender may cause serious harm to the public e.g. arson offences. 
+ 
+The MAPPA identifies three levels of risk management: 
+• Level 1 - Ordinary risk management (MAPPA 1): Used in cases where the risk posed by the offender can be managed by one agency without actively or significantly involving other agencies. 
+• Level 2 - Local inter-agency risk management (MAPPA 2): Used where the active involvement of more than one agency is required. The meeting should be called when it is felt that risk of harm requiring multiagency intervention is needed. Key triggers would include an escalation of identified risk or pre-release from custody preparation. All relevant agencies who have to play a part in this should be invited and a senior member of staff from the most appropriate agency will convene the meeting. 
+• Level 3 - Multi Agency Public Protection Panel (MAPPP) (MAPPA 3): Used for the management of the 'critical few'. This is defined as when the offender is being assessed as being a high or very high risk of causing serious harm and presents risks that can only be managed by a plan that requires close cooperation at a senior level due to the complexity of the case and/or because of the unusual resource commitment it requires; or although not assessed as high or very high risk, the case is exceptional because of the likelihood of media scrutiny/or public interest in the management of the case is high. 
+ 
+If a risk has been identified that an individual case needs to be managed at MAPPA 2 or MAPPA 3 then a referral using the MAPPA protocol and MAPPA A form should be made through the operational manager. This should be sent securely to the MAPPA co-ordinator at Police HQ in Devizes or via secure email.  
+ 
+If there are any concerns about managing any risk posed by the individual, a request should be made for a local MAPPA conference to be convened.  Telephone contact to the MAPPA co-ordinator to request a MAPPA conference at short notice if there are immediate concerns that the young person poses a risk of harm.  This should be confirmed in writing within 24 hours.  All agency records must be updated within 24 hours of referral. 
+ 
+ 
+7. MAPPA conferences 
+MAPPA conferences are held monthly on Monday mornings at the Swindon Gable Cross Police Station.  The role of the MAPPA is bringing agencies together to share, assess and manage risk.  The MAPPA meetings do not assume responsibility for a case, take responsibility from an agency or require agencies to work beyond their existing statutory duties.  Actions agreed at meetings should be carried out, if it is not possible to do so or if an agency re-assesses a situation and wants to change a significant part of the interagency plan then the MAPPA Co-ordinator should be consulted.  The priority for MAPPA is the protection of those who may be at risk of harm from individual offenders. 
+ 
+8. Child Protection Procedure 
+ 
+Where the Court are considering a sentence of custody on a young person, a full Pre-Sentence Report should be prepared that specifically addresses issues of self-harm, risk of suicide, criminal and sexual exploitation and any other perceived safety and wellbeing / child protection concerns. A Stand Down Report is not appropriate for these cases. 
+(This should be read in conjunction with the Multi-agency Child Protection Procedures and Guidance - "South West Child Protection Procedures" http://www.online-procedures.co.uk/swcpp/ ). 
+ 
+• All new operational staff should undertake core Child Protection Training, unless they have undertaken this within the previous three years. 
+• As part of the Asset Plus assessment, Children's Services ICS database should be consulted to ascertain any ongoing Children Services involvement. This should be recorded. If staff members do not have access to ICS then they should seek this information from YOT staff or the young persons allocated Social Worker who will have access to the system.  
+• All Child Protection cases should be reviewed in each supervision session and discussions noted. 
+• All cases that are assessed as having high or very high safety and well-being concerns must be audited and discussed in each supervision session until the assessed level of safety and well-being concern reduces to medium or low.  
+• Operational YOT worker, who have undertaken Child Protection Training, can act as members of the core group of professionals for young people. However YOT workers should never act as Key Workers. Attendance at Case Conferences, core groups and strategy meetings should be prioritised.  
+• If a worker has any concerns about the safety of a young person, they must be discussed immediately with an Operational Manager at the YOT, and a plan of action agreed.  
+• If the concerns are discovered 'out of hours' or at weekends, the worker should contact Swindon Emergency Duty Service (tel.: 01793 436699) for advice. 
+ 
+ 
+ 
+Melissa Norton 
+YOT Operational Manager 
+Restorative Youth Services 
+ 
+ 
+August 2017 Reviewed and updated 
+
+ 	Annex 4 - Swindon YOT Structure Chart July 2019 
+
+Restorative Youth Services  
+RESTORATIVE YOUTH SERVICES 
+Restorative Youth Services 
+Service Manager (and Officer in Charge YJC) - Matt Bywater RYS PREVENTION  & SPECIALIST SERVICES YOT COURT,SUPERVISION,THROUGHCARE, REMAND &               
+INTENSIVE INTERVENTION Operational Manager Specialist Services - Dale Colsell   YOT Operational Manager - Melissa Smith (maternity leave w/e Aug 19) Vacancy 
+Youth Engagement Worker  
+(SBC/YOT P/T 7.4hrs p/w)  Amanda Coakley Parenting Worker 
+(YOT P/T 30hrs p/w) Jill Wells 
+Education Welfare 
+Officer 
+(SBC/YOT P/T 7.4hrs p/w - rising to 18.5 w/e from Aug 19)) Victoria Harvey 
+YOT Worker/ 
+Volunteer Coordinator  
+ 
+(YOT F/T) 
+ Jenny Munday 
+Victim and Restorative Justice Co-ordinator         
+(YOT P/T 17hrs p/w - on maternity leave w/e from Jul 19) 
+ 
+Rebecca Banwell-Moore 
+Interim Victim and Restorative Justice Co-ordinator (covering maternity leave from Aug 19)     Vacancy 
+Social Worker 
+ 
+(F/T) India Hammond 
+Social Worker 
+ 
+(F/T) Vacancy 
+YOT Worker 
+ 
+(YOT F/T) ON TRAK SUBSTANCE MISUSE (U-TURN) Tracey Bayliss 
+RESPECT Worker  
+(YOT F/T) 
+ Andrew Seddon 
+Probation Officer 
+ 
+(Seconded P/T 18.5hrs) POLICE Kathleen Kinloch Counsellor 
+(On Trak P/T 35hrs p/w)   A. Harvey-Jones  
+Counsellor 
+(On Trak P/T  
+35hrs p/w) Michael Hadgraft 
+Substance Misuse Worker 
+(U-Turn F/T) Rebecca Lewis  Substance Misuse 
+Worker (U-Turn F/T) Fiona Buchanan 
+Police Officer 
+(Seconded F/T) Daniel Vizor 
+Police Youth Justice 
+Worker (Police F/T) Vacancy 
+Youth Counsellor 
+ 
+(On Trak P/T 20hrs p/w) Isabel Martins 
+Youth Counsellor 
+ 
+(On Trak P/T 20hrs p/w)                          HEALTH Clare O'Driscoll 
+Specialist Speech & Language Therapist  
+(SBC/ YOT P/T 7.4hrs p/w)  
+Denise O'Rafferty YOT Worker 
+ 
+(YOT F/T) Julie Coleman  
+Bail Support and Intensive Interventions         
+Co-ordinator  
+(YOT F/T) Maria Ayeni 
+Mental Health 
+Practitioner 
+ 
+(YOT P/T  
+25 hours)  Rachel Steadman 
+Young People 
+Health Nurse 
+ 
+(SBC/ YOT P/T 
+ 17hrs p/w)  Emily Benson 
+Communications Worker 
+(YOT P/T 16hrs) Cathy Hill ISS Worker 
+(YOT F/T) Karen Sercombe 
+YOT Officer 
+ (YOT F/T) COURT ADMINISTRATION, INFORMATION & VOLUNTEERS 	      	                 	 Carla Da Silva 
+PA/Finance 
+Assistant 
+(RYS F/T) Jeanette Glover 
+Court Admin/ 
+Reception Supervisor 
+(RYS P/T 30hrs p/w) Yvette Bennett 
+Court/ On Trak Admin- 
+(RYS P/T 30hrs p/w)  
+Sessional Worker - 1 Volunteers (26) 
+ 
+Appropriate Adults -  7 
+RO Panel Members - 8 
+On Trak Counsellors - 11 
+ 
+(Some may have dual roles)  
+ 	Annex 5 - Diversity Statement 
+Diversity Statement 
+ 
+Whilst there is a general understanding of the barriers which are preventing some young people from accessing Restorative Youth Services, it is also clear that diversity needs to be interpreted in its widest context if RYS is to reach out effectively to more young people in Swindon. The On Trak Youth Counselling Service and U-Turn Substance Misuse Service are actually engaged in strategies to improve access by those hardest to reach - including males; young people designated 'Children Looked After'; and young people with learning or communication difficulties. Innovation in practice (such as the use of ex-drug users or the recruitment of a Digital Marketing apprentice) are part of the RYS Plan going forward to address imbalances in categories of young people accessing services who can help with a range of problems, some of which are centred on mental wellbeing. 
+ 
+Less obvious are those young people disadvantaged by virtue of 18s going their poor levels of communication, such as those who attend Court or enter the secure estate. Work was done in 2017 identifying the reasons for this, which were then analysed for the benefit of future under through the criminal justice system. We continue to buy in the resources of a Speech and Language Therapist who works alongside a communications worker in triaging and working with all children and young people assessed to have difficulties in this area. Likewise any information media in RYS (e.g. leaflets) are 'sense checked' by the SALT to ensure that all learning styles are catered for. 
+ 
+RYS is committed to reducing inequality and will be asking partner agencies, staff and volunteers to help identify realistic and deliverable ways of doing this. Resourcing some changes (such as the need to reach out to young people in schools and colleges) will present challenges requiring new ways of working - such as the use of social media. Bids for funding will also be made to commissioners for funding new ways of working. The 2019/20 Plan - and the accompanying Diversity Impact statement - is central to the determination of the team to make a difference to the lives of young people in Swindon. 
+ 
+ 
+ 
+ 
+ 
+ 
+2011 Census data on 
+Swindon Population Ethnicity Swindon 
+Population aged       10-17 (20,167) Restorative Youth Services (2018-19 data)  RYS Staff (30 excl. 3 vacancies) and Volunteers (26 active)  YOT - Community 
+Sentence 194 (164) YOT - Custody 
+10  (10) U-Turn 
+144 (125) On Trak 
+80 (83) Ethnicity Gender  Staff Volunt Staff Volunteer   White 87.2% 83% (86%) 90% (100%) 95.2% (87.6%) 80% (90.4%) M F M F Mixed 3.4% 2.6% (4%) 0% (0%) 2.4% (0%) 2.5% (2.4%)   White 97% 100% 15% 82% 8% 88% Asian 7.6% 3.6% (3%) 10% (0%) 2.4% (0%) 0% (0%) Mixed 3%     3%    4% Black 1.4% 5.7% (6%) 0% (0%) 0% (1.8%) 0% (2.4%) Asian             Other 0.4% 5.1% (0%) 0% (0%) 0.8% (10.6%) 17.5% (4.8%) Black             * Figures in brackets relate to 2017/18 data Other         
+ 
+ 
+ 
+To find out more go to SBC equality@swindon.gov.uk   
+ 
+ 
+	 	Annex 6 - Swindon YOT DATA 2018/19 
+ 
+ 
+	 	                                 	                              	                               	          	  -          	                                    
+                                                                            	                            	                            	                                                                     -                                       	 	                                               	                                                  
+	 	                                                                                                                                                                                        -                                         
+                                                         	                                                                                         	                                               
+ 	                                  	 
+                                                                                                                               
+- -                                      
+	 	                                   	                       	                                   	                                                                                 	                                                                      -                                                    
+                                                            	                                                                               	                                                                                      
+-  	         -  -                                            	                                                                              	                                                  
+                                                            	       	 	                                                         	 
+	                                                             	                                	         -                                  	 	                                               
+ 	                	                               	                                         	                                     	                                           
+- -         	                                             
+ 	 	 	                                        	                                           	                                                                                                                                
+                  	             	                                                         	                                                       	                             	                                                                                                                                                                           
+	      	               	 	                                                                                     	                                                                   -                        -               	                                                                                                    
+ 	                        	                                         	 	                                                    
+- -  -	                                            
+- -	                                                                                                                                                                                    
+	        	     -      	                                        	                                          	                  
+             	                   	                        	                               	                              	 	                                	 
+	      	        	   	     -       
+	      	                  	 	                                                             -               	                                         	                                                                                         
+  	                    	                                    	 	                                  	 	                           	 	                                                                                                
+	     -      	              	                                          
+	         	                           	 	       --                                                     	  	                                                            	 
+- -  -                 
+ 	                                
+	 	                        	     -                        	                        	                	                                                 
+- -                  	         	                                                     	           	 	                                                                                               
+        	                                                                                                                       	                                                            	                 	 	                                      	   	                                                                                                                                               
+                                                                                                      	                	                       	                     
+                                                                                                                                              	             	  	            	           	                
+- -                         	        	         	                                                                                          -                           	                              
+ 	                                                                           	                                	  	              	 	                                       
+	     -                               	              
+	              -                         	 
+       	 
+	          -                                                                                                                       	    	       	                                           	                                           	                                             
+	                                  	                                                      -                      	                                                 	 	                                                                   	            	    	                                                          	                                                                                                                                                                                            
+                            	                           
+                               	                                	    	                                                                          	                                                      	                 	                                                	          	      	        	       
+                                                      	                                                  	                   	                                  	                                                                                                                  
+                
+                         	                       	                  	 
+                             	                       	             
+                       	               
+ 
+                                                  
+                           	                                          
+                             
+                                          	                                                            	                  	                                                 	           	     	                                              	                      
+     	     	     	     	     	     	     	                                                                                      	                                	                    	 	      	      	       	      	       	                                           
+     	          	          	    	    	                            	                	                        	      	      	       	      	             	                 	                         
+                                        	              	      	      	       	        	                           	      	       	        	      	       
+
+
+
+
+	Restorative Youth Service Plan 2019-20  	1 
+
+	Restorative Youth Service Plan 2019-20  	1 
+
+
+
+	Restorative Youth Service Plan 2019-20  	1 
+
+? 
+
+? 
+
+	Restorative Youth Service Plan 2019-20  	1 
+
+	Restorative Youth Service Plan 2019-20  	1 
+
+? 
+
+	Restorative Youth Service Plan 2019-20  	1 
+
+
+
+
+
+	Restorative Youth Service Plan 2019-20  	1 
+
+	Restorative Youth Service Plan 2019-20  	1 
+
+
+
+	Restorative Youth Service Plan 2019-20  	1 
+
+
+
+
+
+Restorative Youth Service Plan 2019-20  	28 
+
+Restorative Youth Service Plan 2019-20  	28 
+
+
+
+Restorative Youth Service Plan 2019-20  	28 
+
+
+
+
+
+Restorative Youth Service Plan 2019-20  	1 
+
+Restorative Youth Service Plan 2019-20  	1 
+
+
+
+Restorative Youth Service Plan 2019-20  	1 
+
